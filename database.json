@@ -1,7 +1,22 @@
 {
   "version": "1.0",
   "description": "Master index of all captured tasks, recipes, projects, and ideas from Gmail",
-  "entries": [],
-  "lastUpdated": "2026-05-23T00:00:00Z",
-  "totalEntries": 0
+  "entries": [
+    {
+      "id": "2026-05-23-teriyaki-steak-fried-rice",
+      "type": "recipe",
+      "title": "Easy Teriyaki Steak Fried Rice",
+      "capturedAt": "2026-05-23T14:32:34Z",
+      "file": "entries/2026-05-23-teriyaki-steak-fried-rice.json"
+    },
+    {
+      "id": "2026-05-23-bacon-ranch-chicken-pasta",
+      "type": "recipe",
+      "title": "One Pan Bacon Ranch Cheddar Chicken Pasta",
+      "capturedAt": "2026-05-23T14:32:07Z",
+      "file": "entries/2026-05-23-bacon-ranch-chicken-pasta.json"
+    }
+  ],
+  "lastUpdated": "2026-05-23T15:41:00Z",
+  "totalEntries": 2
 }
