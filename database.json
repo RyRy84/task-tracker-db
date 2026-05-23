@@ -15,8 +15,15 @@
       "title": "One Pan Bacon Ranch Cheddar Chicken Pasta",
       "capturedAt": "2026-05-23T14:32:07Z",
       "file": "entries/2026-05-23-bacon-ranch-chicken-pasta.json"
+    },
+    {
+      "id": "2026-05-23-5-minute-french-dips",
+      "type": "recipe",
+      "title": "5 Minute French Dips",
+      "capturedAt": "2026-05-23T15:47:29Z",
+      "file": "entries/2026-05-23-5-minute-french-dips.json"
     }
   ],
-  "lastUpdated": "2026-05-23T15:41:00Z",
-  "totalEntries": 2
+  "lastUpdated": "2026-05-23T15:51:07Z",
+  "totalEntries": 3
 }
