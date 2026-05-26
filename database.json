@@ -22,8 +22,15 @@
       "title": "5 Minute French Dips",
       "capturedAt": "2026-05-23T15:47:29Z",
       "file": "entries/2026-05-23-5-minute-french-dips.json"
+    },
+    {
+      "id": "2026-05-25-facebook-reel-unfetched",
+      "type": "other",
+      "title": "Facebook Reel (Content Unavailable)",
+      "capturedAt": "2026-05-25T23:13:29Z",
+      "file": "entries/2026-05-25-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-05-23T15:51:07Z",
-  "totalEntries": 3
+  "lastUpdated": "2026-05-25T23:13:29Z",
+  "totalEntries": 4
 }
