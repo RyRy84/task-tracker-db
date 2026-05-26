@@ -13,5 +13,5 @@
   "description": "Email from Heather containing a Facebook reel link. Content could not be fetched — Facebook requires login and blocked automated access. Based on sender pattern (all three previous 'Task' emails from this sender were recipe reels), this is very likely a recipe reel.",
   "notes": "URL could not be fetched. Manual review recommended. Open the link to view: https://www.facebook.com/share/r/1E3nfYt73E/",
   "tags": ["facebook-reel", "needs-review", "likely-recipe"],
-  "emailSent": false
+  "emailSent": true
 }
