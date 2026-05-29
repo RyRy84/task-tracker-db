@@ -29,8 +29,15 @@
       "title": "Facebook Reel (Content Unavailable)",
       "capturedAt": "2026-05-25T23:13:29Z",
       "file": "entries/2026-05-25-facebook-reel-unfetched.json"
+    },
+    {
+      "id": "2026-05-29-easy-crockpot-french-dip",
+      "type": "recipe",
+      "title": "Easy Crockpot French Dip",
+      "capturedAt": "2026-05-29T17:15:55Z",
+      "file": "entries/2026-05-29-easy-crockpot-french-dip.json"
     }
   ],
-  "lastUpdated": "2026-05-25T23:13:29Z",
-  "totalEntries": 4
+  "lastUpdated": "2026-05-29T17:15:55Z",
+  "totalEntries": 5
 }
