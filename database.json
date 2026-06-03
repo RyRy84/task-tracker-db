@@ -36,8 +36,15 @@
       "title": "Easy Crockpot French Dip",
       "capturedAt": "2026-05-29T17:15:55Z",
       "file": "entries/2026-05-29-easy-crockpot-french-dip.json"
+    },
+    {
+      "id": "2026-06-02-andrea-easy-dinner-reel",
+      "type": "recipe",
+      "title": "Andrea's Easy Dinner (Facebook Reel)",
+      "capturedAt": "2026-06-02T21:34:11Z",
+      "file": "entries/2026-06-02-andrea-easy-dinner-reel.json"
     }
   ],
-  "lastUpdated": "2026-05-29T17:15:55Z",
-  "totalEntries": 5
+  "lastUpdated": "2026-06-02T21:34:11Z",
+  "totalEntries": 6
 }
