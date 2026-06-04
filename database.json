@@ -43,8 +43,15 @@
       "title": "Easy Baked Caesar Chicken Sandwiches",
       "capturedAt": "2026-06-02T21:34:11Z",
       "file": "entries/2026-06-02-baked-caesar-chicken-sandwiches.json"
+    },
+    {
+      "id": "2026-06-04-creamy-garlic-butter-chicken-rice",
+      "type": "recipe",
+      "title": "Creamy Garlic Butter Chicken and Rice",
+      "capturedAt": "2026-06-04T15:42:25Z",
+      "file": "entries/2026-06-04-creamy-garlic-butter-chicken-rice.json"
     }
   ],
-  "lastUpdated": "2026-06-02T21:34:11Z",
-  "totalEntries": 6
+  "lastUpdated": "2026-06-04T18:06:25Z",
+  "totalEntries": 7
 }
