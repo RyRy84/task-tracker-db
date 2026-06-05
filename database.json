@@ -50,8 +50,15 @@
       "title": "Creamy Garlic Butter Chicken and Rice",
       "capturedAt": "2026-06-04T15:42:25Z",
       "file": "entries/2026-06-04-creamy-garlic-butter-chicken-rice.json"
+    },
+    {
+      "id": "2026-06-05-crockpot-ribeye-au-jus-mushrooms",
+      "type": "recipe",
+      "title": "Crockpot Rib Eye with Au Jus and Mushrooms",
+      "capturedAt": "2026-06-05T13:12:54Z",
+      "file": "entries/2026-06-05-crockpot-ribeye-au-jus-mushrooms.json"
     }
   ],
-  "lastUpdated": "2026-06-04T18:06:25Z",
-  "totalEntries": 7
+  "lastUpdated": "2026-06-05T23:11:05Z",
+  "totalEntries": 8
 }
