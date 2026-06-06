@@ -57,8 +57,15 @@
       "title": "Crockpot Rib Eye with Au Jus and Mushrooms",
       "capturedAt": "2026-06-05T13:12:54Z",
       "file": "entries/2026-06-05-crockpot-ribeye-au-jus-mushrooms.json"
+    },
+    {
+      "id": "2026-06-06-cheesy-hashbrown-hamburger-casserole",
+      "type": "recipe",
+      "title": "Cheesy Hashbrown & Hamburger Casserole",
+      "capturedAt": "2026-06-06T21:59:57Z",
+      "file": "entries/2026-06-06-cheesy-hashbrown-hamburger-casserole.json"
     }
   ],
-  "lastUpdated": "2026-06-05T23:11:05Z",
-  "totalEntries": 8
+  "lastUpdated": "2026-06-06T23:10:04Z",
+  "totalEntries": 9
 }
