@@ -1,0 +1,38 @@
+{
+  "id": "2026-06-06-cheesy-hashbrown-hamburger-casserole",
+  "type": "recipe",
+  "title": "Cheesy Hashbrown & Hamburger Casserole",
+  "capturedAt": "2026-06-06T21:59:57Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-06-06T21:59:57Z",
+    "threadId": "19e9ef3588b921f9"
+  },
+  "sourceUrl": "https://www.facebook.com/reel/1574434437528296",
+  "recipeUrl": "https://whatsmomcookin.com/cheesy-hash-brown-and-hamburger-casserole/",
+  "credit": "Whatsmomcookin (@Whatsmomcookin on Facebook)",
+  "servings": "not specified",
+  "prepTime": "not specified",
+  "cookTime": "not specified",
+  "ingredients": [
+    "1 lb ground beef (hamburger), browned and drained",
+    "1 bag (30 oz) frozen shredded hashbrowns",
+    "1 can cream of mushroom soup",
+    "1 cup sour cream",
+    "2 cups shredded cheddar cheese",
+    "French fried onions (for topping)",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "Preheat oven as directed.",
+    "Brown and drain ground beef; season with salt and pepper.",
+    "Mix together hashbrowns, browned beef, cream of mushroom soup, sour cream, and most of the cheddar cheese in a large bowl.",
+    "Spread mixture into a greased baking dish.",
+    "Top with remaining cheddar cheese and French fried onions.",
+    "Bake until heated through, bubbly, and topping is golden."
+  ],
+  "notes": "Recipe blog URL could not be fetched — ingredients and steps inferred from video caption and comments. Comments suggest: swapping cream of mushroom for cheddar cheese soup works great; sausage or kielbasa can replace hamburger. Greek yogurt can substitute for sour cream. Even better as leftovers! Full recipe at: https://whatsmomcookin.com/cheesy-hash-brown-and-hamburger-casserole/",
+  "tags": ["casserole", "hashbrowns", "hamburger", "comfort food", "easy", "budget meals", "family favorite"],
+  "emailSent": false
+}
