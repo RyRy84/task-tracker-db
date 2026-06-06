@@ -34,5 +34,5 @@
   ],
   "notes": "Recipe blog URL could not be fetched — ingredients and steps inferred from video caption and comments. Comments suggest: swapping cream of mushroom for cheddar cheese soup works great; sausage or kielbasa can replace hamburger. Greek yogurt can substitute for sour cream. Even better as leftovers! Full recipe at: https://whatsmomcookin.com/cheesy-hash-brown-and-hamburger-casserole/",
   "tags": ["casserole", "hashbrowns", "hamburger", "comfort food", "easy", "budget meals", "family favorite"],
-  "emailSent": false
+  "emailSent": true
 }
