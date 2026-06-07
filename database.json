@@ -64,8 +64,15 @@
       "title": "Cheesy Hashbrown & Hamburger Casserole",
       "capturedAt": "2026-06-06T21:59:57Z",
       "file": "entries/2026-06-06-cheesy-hashbrown-hamburger-casserole.json"
+    },
+    {
+      "id": "2026-06-07-biscoff-rice-krispie-treats",
+      "type": "recipe",
+      "title": "Biscoff Rice Krispie Treats",
+      "capturedAt": "2026-06-07T22:55:34Z",
+      "file": "entries/2026-06-07-biscoff-rice-krispie-treats.json"
     }
   ],
-  "lastUpdated": "2026-06-06T23:10:04Z",
-  "totalEntries": 9
+  "lastUpdated": "2026-06-07T23:11:14Z",
+  "totalEntries": 10
 }
