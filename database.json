@@ -78,8 +78,15 @@
       "title": "Mini Butter Cookies",
       "capturedAt": "2026-06-10T22:15:41Z",
       "file": "entries/2026-06-10-mini-butter-cookies.json"
+    },
+    {
+      "id": "2026-06-11-grilled-cheese-burritos",
+      "type": "recipe",
+      "title": "Grilled Cheese Burritos",
+      "capturedAt": "2026-06-11T21:37:23Z",
+      "file": "entries/2026-06-11-grilled-cheese-burritos.json"
     }
   ],
-  "lastUpdated": "2026-06-11T10:12:09Z",
-  "totalEntries": 11
+  "lastUpdated": "2026-06-11T22:00:00Z",
+  "totalEntries": 12
 }
