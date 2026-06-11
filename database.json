@@ -71,8 +71,15 @@
       "title": "Biscoff Rice Krispie Treats",
       "capturedAt": "2026-06-07T22:55:34Z",
       "file": "entries/2026-06-07-biscoff-rice-krispie-treats.json"
+    },
+    {
+      "id": "2026-06-10-mini-butter-cookies",
+      "type": "recipe",
+      "title": "Mini Butter Cookies",
+      "capturedAt": "2026-06-10T22:15:41Z",
+      "file": "entries/2026-06-10-mini-butter-cookies.json"
     }
   ],
-  "lastUpdated": "2026-06-07T23:11:14Z",
-  "totalEntries": 10
+  "lastUpdated": "2026-06-11T10:12:09Z",
+  "totalEntries": 11
 }
