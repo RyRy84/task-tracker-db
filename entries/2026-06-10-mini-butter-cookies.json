@@ -1,0 +1,35 @@
+{
+  "id": "2026-06-10-mini-butter-cookies",
+  "type": "recipe",
+  "title": "Mini Butter Cookies",
+  "capturedAt": "2026-06-10T22:15:41Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-06-10T22:15:41Z",
+    "threadId": "19eb3cd15e56ecc8"
+  },
+  "sourceUrl": "https://www.facebook.com/reel/3427930967361525",
+  "creator": "Julies food (@juliesfood2)",
+  "servings": "Makes approximately 48 mini cookies",
+  "prepTime": "5 minutes",
+  "cookTime": "8-10 minutes",
+  "ingredients": [
+    "1 box (15.25 oz) yellow cake mix",
+    "1/2 cup (1 stick) butter, melted",
+    "1 egg"
+  ],
+  "instructions": [
+    "Preheat oven to 350°F. Line a baking sheet with a silicone mat or parchment paper.",
+    "In a large bowl, melt the butter.",
+    "Add the egg to the melted butter and stir to combine.",
+    "Pour in the yellow cake mix and stir until a thick dough forms.",
+    "Roll the dough into small teaspoon-sized balls (about 1 inch diameter for mini size).",
+    "Place the balls on the prepared baking sheet, spaced about 1 inch apart.",
+    "Bake for 8-10 minutes until set but not browned on top.",
+    "Let cool on the pan for 5 minutes before transferring to a wire rack."
+  ],
+  "notes": "Recipe inferred from video observation and comment context — the full recipe text was not directly accessible in the post caption or comments. Confirmed ingredients from video: yellow cake mix box, melted butter, and egg. Comment variations: (1) Stir in crushed walnuts or pecans and roll in powdered sugar for a pecan sandie style. (2) Sandwich two cookies with Nutella and roll in powdered sugar for a bakery-style treat. (3) Add a splash of almond extract for a classic bakery butter cookie flavor. (4) Drizzle finished cookies with melted chocolate.",
+  "tags": ["cookies", "butter cookies", "cake mix", "easy", "3-ingredient", "kids", "quick", "no-chill"],
+  "emailSent": false
+}
