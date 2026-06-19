@@ -99,8 +99,15 @@
       "title": "Betty Crocker Cookie Mix Cereal Treats",
       "capturedAt": "2026-06-12T13:08:03Z",
       "file": "entries/2026-06-12-betty-crocker-cereal-treats.json"
+    },
+    {
+      "id": "2026-06-19-viral-oreo-cake",
+      "type": "recipe",
+      "title": "The \"Viral\" Oreo Cake",
+      "capturedAt": "2026-06-19T23:11:53Z",
+      "file": "entries/2026-06-19-viral-oreo-cake.json"
     }
   ],
-  "lastUpdated": "2026-06-12T23:10:33Z",
-  "totalEntries": 14
+  "lastUpdated": "2026-06-19T23:11:53Z",
+  "totalEntries": 15
 }
