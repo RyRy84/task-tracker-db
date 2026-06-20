@@ -106,8 +106,15 @@
       "title": "The \"Viral\" Oreo Cake",
       "capturedAt": "2026-06-19T23:11:53Z",
       "file": "entries/2026-06-19-viral-oreo-cake.json"
+    },
+    {
+      "id": "2026-06-20-lifemd-weight-tracking-reminder",
+      "type": "other",
+      "title": "LifeMD Weight Tracking Reminder",
+      "capturedAt": "2026-06-20T00:05:57Z",
+      "file": "entries/2026-06-20-lifemd-weight-tracking-reminder.json"
     }
   ],
-  "lastUpdated": "2026-06-19T23:11:53Z",
-  "totalEntries": 15
+  "lastUpdated": "2026-06-20T10:05:01Z",
+  "totalEntries": 16
 }
