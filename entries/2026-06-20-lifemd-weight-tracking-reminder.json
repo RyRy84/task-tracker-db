@@ -13,5 +13,5 @@
   "description": "Automated promotional/account email from LifeMD prompting Ryan to log his weight in the LifeMD patient portal. This is a recurring CRM/marketing reminder rather than a personally authored task, but it matched the 'track' subject-line search.",
   "notes": "No actionable content beyond visiting the LifeMD patient portal to enter weight. Captured automatically because the subject line contained 'track'.",
   "tags": ["lifemd", "health", "automated-email"],
-  "emailSent": false
+  "emailSent": true
 }
