@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-20-lifemd-weight-tracking-reminder",
+  "type": "other",
+  "title": "LifeMD Weight Tracking Reminder",
+  "capturedAt": "2026-06-20T00:05:57Z",
+  "sourceEmail": {
+    "subject": "It’s time to track your progress, Ryan!",
+    "from": "concierge@account.lifemd.com",
+    "date": "2026-06-20T00:05:57Z",
+    "threadId": "19ee2593c75ce295"
+  },
+  "sourceUrl": null,
+  "description": "Automated promotional/account email from LifeMD prompting Ryan to log his weight in the LifeMD patient portal. This is a recurring CRM/marketing reminder rather than a personally authored task, but it matched the 'track' subject-line search.",
+  "notes": "No actionable content beyond visiting the LifeMD patient portal to enter weight. Captured automatically because the subject line contained 'track'.",
+  "tags": ["lifemd", "health", "automated-email"],
+  "emailSent": false
+}
