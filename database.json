@@ -113,8 +113,15 @@
       "title": "LifeMD Weight Tracking Reminder",
       "capturedAt": "2026-06-20T00:05:57Z",
       "file": "entries/2026-06-20-lifemd-weight-tracking-reminder.json"
+    },
+    {
+      "id": "2026-06-21-facebook-reel-unfetched",
+      "type": "other",
+      "title": "Facebook Reel (Content Unavailable)",
+      "capturedAt": "2026-06-21T23:35:31Z",
+      "file": "entries/2026-06-21-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-06-20T10:05:01Z",
-  "totalEntries": 16
+  "lastUpdated": "2026-06-22T10:05:09Z",
+  "totalEntries": 17
 }
