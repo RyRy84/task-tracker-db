@@ -1,7 +1,7 @@
 {
-  "id": "2026-06-21-facebook-reel-unfetched",
-  "type": "other",
-  "title": "Facebook Reel (Content Unavailable)",
+  "id": "2026-06-21-baked-brown-sugar-french-toast",
+  "type": "recipe",
+  "title": "Baked Brown Sugar French Toast",
   "capturedAt": "2026-06-21T23:35:31Z",
   "sourceEmail": {
     "subject": "Task",
@@ -9,9 +9,28 @@
     "date": "2026-06-21T23:35:31Z",
     "threadId": "19eeca455550565a"
   },
-  "sourceUrl": "https://www.facebook.com/share/r/1EovcURyf1/",
-  "description": "Email from Heather containing a Facebook reel link. Content could not be fetched: web_fetch rejected the URL (not in provenance set) and the Claude in Chrome browser extension was not connected during this run. Based on sender pattern (most previous 'Task' emails from this sender have turned out to be recipe reels), this is likely a recipe reel.",
-  "notes": "URL could not be fetched. Manual review recommended. Open the link to view: https://www.facebook.com/share/r/1EovcURyf1/",
-  "tags": ["facebook-reel", "needs-review", "likely-recipe"],
-  "emailSent": true
+  "sourceUrl": "https://www.allrecipes.com/baked-brown-sugar-french-toast-11977565",
+  "servings": "",
+  "prepTime": "",
+  "cookTime": "30 minutes",
+  "ingredients": [
+    "1 cup brown sugar (light or dark)",
+    "1 stick (1/2 cup) butter",
+    "Thick white bread, slightly stale (brioche or challah recommended)",
+    "Eggs",
+    "Milk or cream",
+    "Sugar",
+    "Cinnamon",
+    "Vanilla extract"
+  ],
+  "instructions": [
+    "Line a sheet pan with parchment paper or aluminum foil.",
+    "Melt 1 cup brown sugar with 1 stick of butter in a saucepan over medium heat, stirring frequently until smooth. Pour onto the sheet pan and spread into an even layer.",
+    "Whisk together a standard French toast batter: milk or cream, eggs, sugar, cinnamon, and vanilla.",
+    "Dip each bread slice in the batter on both sides, then arrange the slices in an even layer on top of the brown sugar mixture on the sheet pan.",
+    "Bake at 375 F for about 30 minutes."
+  ],
+  "notes": "Originally from Instagram creator @eatbasilandbloom; featured by Allrecipes. Use a thick bread like brioche or challah, slightly stale so it soaks up the custard better. Originally fetched as unavailable due to a tool connection issue; corrected after re-checking the Facebook reel and following the link in the first comment.",
+  "tags": ["recipe", "breakfast", "french-toast", "baked"],
+  "emailSent": false
 }
