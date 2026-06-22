@@ -115,13 +115,13 @@
       "file": "entries/2026-06-20-lifemd-weight-tracking-reminder.json"
     },
     {
-      "id": "2026-06-21-facebook-reel-unfetched",
-      "type": "other",
-      "title": "Facebook Reel (Content Unavailable)",
+      "id": "2026-06-21-baked-brown-sugar-french-toast",
+      "type": "recipe",
+      "title": "Baked Brown Sugar French Toast",
       "capturedAt": "2026-06-21T23:35:31Z",
       "file": "entries/2026-06-21-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-06-22T10:05:09Z",
+  "lastUpdated": "2026-06-22T12:23:09Z",
   "totalEntries": 17
 }
