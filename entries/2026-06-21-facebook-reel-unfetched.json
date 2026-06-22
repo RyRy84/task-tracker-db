@@ -13,5 +13,5 @@
   "description": "Email from Heather containing a Facebook reel link. Content could not be fetched: web_fetch rejected the URL (not in provenance set) and the Claude in Chrome browser extension was not connected during this run. Based on sender pattern (most previous 'Task' emails from this sender have turned out to be recipe reels), this is likely a recipe reel.",
   "notes": "URL could not be fetched. Manual review recommended. Open the link to view: https://www.facebook.com/share/r/1EovcURyf1/",
   "tags": ["facebook-reel", "needs-review", "likely-recipe"],
-  "emailSent": false
+  "emailSent": true
 }
