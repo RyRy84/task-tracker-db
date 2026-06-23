@@ -120,8 +120,15 @@
       "title": "Baked Brown Sugar French Toast",
       "capturedAt": "2026-06-21T23:35:31Z",
       "file": "entries/2026-06-21-facebook-reel-unfetched.json"
+    },
+    {
+      "id": "2026-06-23-granny-cake",
+      "type": "recipe",
+      "title": "Granny Cake (Appalachian Pineapple Cake)",
+      "capturedAt": "2026-06-23T12:24:22Z",
+      "file": "entries/2026-06-23-granny-cake.json"
     }
   ],
-  "lastUpdated": "2026-06-22T12:23:09Z",
-  "totalEntries": 17
+  "lastUpdated": "2026-06-23T23:09:25Z",
+  "totalEntries": 18
 }
