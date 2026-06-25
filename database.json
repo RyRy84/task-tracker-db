@@ -127,8 +127,15 @@
       "title": "Granny Cake (Appalachian Pineapple Cake)",
       "capturedAt": "2026-06-23T12:24:22Z",
       "file": "entries/2026-06-23-granny-cake.json"
+    },
+    {
+      "id": "2026-06-25-chocolate-lush",
+      "type": "recipe",
+      "title": "Chocolate Lush",
+      "capturedAt": "2026-06-25T16:40:49Z",
+      "file": "entries/2026-06-25-chocolate-lush.json"
     }
   ],
-  "lastUpdated": "2026-06-23T23:09:25Z",
-  "totalEntries": 18
+  "lastUpdated": "2026-06-25T16:40:49Z",
+  "totalEntries": 19
 }
