@@ -134,8 +134,15 @@
       "title": "Chocolate Lush",
       "capturedAt": "2026-06-25T16:40:49Z",
       "file": "entries/2026-06-25-chocolate-lush.json"
+    },
+    {
+      "id": "2026-06-27-cheesy-french-onion-casserole",
+      "type": "recipe",
+      "title": "Cheesy French Onion Hamburger Casserole",
+      "capturedAt": "2026-06-27T02:39:58Z",
+      "file": "entries/2026-06-27-cheesy-french-onion-casserole.json"
     }
   ],
-  "lastUpdated": "2026-06-25T16:40:49Z",
-  "totalEntries": 19
+  "lastUpdated": "2026-06-27T02:39:58Z",
+  "totalEntries": 20
 }
