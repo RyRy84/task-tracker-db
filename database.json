@@ -141,8 +141,15 @@
       "title": "Cheesy French Onion Hamburger Casserole",
       "capturedAt": "2026-06-27T02:39:58Z",
       "file": "entries/2026-06-27-cheesy-french-onion-casserole.json"
+    },
+    {
+      "id": "2026-07-01-chicken-bacon-ranch-sliders",
+      "type": "recipe",
+      "title": "Chicken Bacon & Ranch Sliders",
+      "capturedAt": "2026-07-01T03:43:43Z",
+      "file": "entries/2026-07-01-chicken-bacon-ranch-sliders.json"
     }
   ],
-  "lastUpdated": "2026-06-27T02:39:58Z",
-  "totalEntries": 20
+  "lastUpdated": "2026-07-01T10:09:30Z",
+  "totalEntries": 21
 }
