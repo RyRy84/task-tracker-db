@@ -148,8 +148,15 @@
       "title": "Chicken Bacon & Ranch Sliders",
       "capturedAt": "2026-07-01T03:43:43Z",
       "file": "entries/2026-07-01-chicken-bacon-ranch-sliders.json"
+    },
+    {
+      "id": "2026-07-07-dolly-partons-5-ingredient-casserole",
+      "type": "recipe",
+      "title": "Dolly Parton's 5-Ingredient Casserole",
+      "capturedAt": "2026-07-07T21:51:32Z",
+      "file": "entries/2026-07-07-dolly-partons-5-ingredient-casserole.json"
     }
   ],
-  "lastUpdated": "2026-07-01T10:09:30Z",
-  "totalEntries": 21
+  "lastUpdated": "2026-07-07T21:51:32Z",
+  "totalEntries": 22
 }
