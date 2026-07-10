@@ -162,8 +162,15 @@
       "title": "Facebook Reel (Content Unavailable)",
       "capturedAt": "2026-07-09T16:56:41Z",
       "file": "entries/2026-07-09-facebook-reel-unfetched.json"
+    },
+    {
+      "id": "2026-07-10-bacon-ranch-chicken-gnocchi",
+      "type": "recipe",
+      "title": "One Pan Creamy Bacon Ranch Chicken and Gnocchi",
+      "capturedAt": "2026-07-10T10:04:08Z",
+      "file": "entries/2026-07-10-bacon-ranch-chicken-gnocchi.json"
     }
   ],
-  "lastUpdated": "2026-07-09T16:56:41Z",
-  "totalEntries": 23
+  "lastUpdated": "2026-07-10T10:04:08Z",
+  "totalEntries": 24
 }
