@@ -169,8 +169,15 @@
       "title": "One Pan Creamy Bacon Ranch Chicken and Gnocchi",
       "capturedAt": "2026-07-10T10:04:08Z",
       "file": "entries/2026-07-10-bacon-ranch-chicken-gnocchi.json"
+    },
+    {
+      "id": "2026-07-11-cheesy-fried-flautas",
+      "type": "recipe",
+      "title": "Cheesy Fried Flautas",
+      "capturedAt": "2026-07-11T16:00:00Z",
+      "file": "entries/2026-07-11-cheesy-fried-flautas.json"
     }
   ],
-  "lastUpdated": "2026-07-10T10:04:08Z",
-  "totalEntries": 24
+  "lastUpdated": "2026-07-11T16:00:00Z",
+  "totalEntries": 25
 }
