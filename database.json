@@ -176,8 +176,15 @@
       "title": "Cheesy Fried Flautas",
       "capturedAt": "2026-07-11T16:00:00Z",
       "file": "entries/2026-07-11-cheesy-fried-flautas.json"
+    },
+    {
+      "id": "2026-07-12-cheddar-bay-chicken-bake",
+      "type": "recipe",
+      "title": "Cheddar Bay Chicken Bake",
+      "capturedAt": "2026-07-12T23:26:12Z",
+      "file": "entries/2026-07-12-cheddar-bay-chicken-bake.json"
     }
   ],
-  "lastUpdated": "2026-07-11T16:00:00Z",
-  "totalEntries": 25
+  "lastUpdated": "2026-07-12T23:26:12Z",
+  "totalEntries": 26
 }
