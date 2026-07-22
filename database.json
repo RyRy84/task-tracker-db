@@ -183,8 +183,15 @@
       "title": "Cheddar Bay Chicken Bake",
       "capturedAt": "2026-07-12T23:26:12Z",
       "file": "entries/2026-07-12-cheddar-bay-chicken-bake.json"
+    },
+    {
+      "id": "2026-07-18-cheesy-ranch-potatoes-sausage",
+      "type": "recipe",
+      "title": "Cheesy Ranch Potatoes & Smoked Sausage",
+      "capturedAt": "2026-07-18T20:33:45Z",
+      "file": "entries/2026-07-18-cheesy-ranch-potatoes-sausage.json"
     }
   ],
-  "lastUpdated": "2026-07-12T23:26:12Z",
-  "totalEntries": 26
+  "lastUpdated": "2026-07-18T20:33:45Z",
+  "totalEntries": 27
 }
