@@ -190,8 +190,15 @@
       "title": "Cheesy Ranch Potatoes & Smoked Sausage",
       "capturedAt": "2026-07-18T20:33:45Z",
       "file": "entries/2026-07-18-cheesy-ranch-potatoes-sausage.json"
+    },
+    {
+      "id": "2026-07-24-chicken-enchiladas-cream-cheese",
+      "type": "recipe",
+      "title": "Chicken Enchiladas (Cream Cheese Wrapped)",
+      "capturedAt": "2026-07-25T12:53:59Z",
+      "file": "entries/2026-07-24-chicken-enchiladas-cream-cheese.json"
     }
   ],
-  "lastUpdated": "2026-07-18T20:33:45Z",
-  "totalEntries": 27
+  "lastUpdated": "2026-07-25T12:53:59Z",
+  "totalEntries": 28
 }
