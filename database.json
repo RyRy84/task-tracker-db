@@ -197,8 +197,15 @@
       "title": "Chicken Enchiladas (Cream Cheese Wrapped)",
       "capturedAt": "2026-07-25T12:53:59Z",
       "file": "entries/2026-07-24-chicken-enchiladas-cream-cheese.json"
+    },
+    {
+      "id": "2026-07-26-garlic-butter-chicken-rigatoni",
+      "type": "recipe",
+      "title": "One-Pot Garlic Butter Chicken Rigatoni in Parmesan Sauce",
+      "capturedAt": "2026-07-26T17:35:58Z",
+      "file": "entries/2026-07-26-garlic-butter-chicken-rigatoni.json"
     }
   ],
-  "lastUpdated": "2026-07-25T12:53:59Z",
-  "totalEntries": 28
+  "lastUpdated": "2026-07-26T17:35:58Z",
+  "totalEntries": 29
 }
