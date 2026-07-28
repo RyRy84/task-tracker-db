@@ -1,0 +1,39 @@
+{
+  "id": "2026-07-27-tater-tot-casserole",
+  "type": "recipe",
+  "title": "Tater Tot Casserole",
+  "capturedAt": "2026-07-27T22:26:13Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-07-27T22:26:13Z",
+    "threadId": "19fa5c1f654a47f3"
+  },
+  "sourceUrl": "https://www.facebook.com/share/v/1BEDzD3ShL/",
+  "servings": "",
+  "prepTime": "",
+  "cookTime": "40 minutes",
+  "ingredients": [
+    "Ground beef",
+    "1 can cheddar cheese soup",
+    "1 can cream of chicken soup",
+    "Sour cream",
+    "Seasoning of your choice",
+    "Splash of Worcestershire sauce",
+    "Shredded cheese (for topping)",
+    "Frozen tater tots",
+    "Extra shredded cheese (for topping)"
+  ],
+  "instructions": [
+    "Brown the ground beef.",
+    "Mix the browned beef with cheddar cheese soup, cream of chicken soup, sour cream, seasoning, and a splash of Worcestershire sauce.",
+    "Spread the mixture into a baking dish.",
+    "Top with shredded cheese.",
+    "Layer frozen tater tots on top.",
+    "Add more shredded cheese on top.",
+    "Bake uncovered at 375°F for 40 minutes."
+  ],
+  "notes": "From a Facebook reel by Tess Walker. Commenters call this 'tater tot hotdish' in the Midwest. Variation ideas from comments: add a can of Rotel for spice, add a can of French-style green beans, or top with smoked bacon pieces.",
+  "tags": ["casserole", "ground beef", "tater tots", "comfort food", "easy dinner"],
+  "emailSent": false
+}
