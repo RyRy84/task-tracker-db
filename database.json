@@ -204,8 +204,15 @@
       "title": "One-Pot Garlic Butter Chicken Rigatoni in Parmesan Sauce",
       "capturedAt": "2026-07-26T17:35:58Z",
       "file": "entries/2026-07-26-garlic-butter-chicken-rigatoni.json"
+    },
+    {
+      "id": "2026-07-27-tater-tot-casserole",
+      "type": "recipe",
+      "title": "Tater Tot Casserole",
+      "capturedAt": "2026-07-27T22:26:13Z",
+      "file": "entries/2026-07-27-tater-tot-casserole.json"
     }
   ],
-  "lastUpdated": "2026-07-26T17:35:58Z",
-  "totalEntries": 29
+  "lastUpdated": "2026-07-27T22:26:13Z",
+  "totalEntries": 30
 }
