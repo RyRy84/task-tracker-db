@@ -17,5 +17,5 @@
   "instructions": [],
   "notes": "Facebook reel by creator 'Kristen Cooking' captioned 'Easy, yummy meal!'. Video shows a home kitchen with what appears to be a bag of rice/frozen vegetable-style product on the counter. Could not extract full ingredients/instructions — the video would not buffer/play in the automated browser session, and the two comments on the post did not contain a written recipe (unlike most reels where the recipe is posted as the first comment). Comments present: Shrimpy Dalrymple — 'Lots of sodium & starch'; Lynn Fix — 'Looks amazing'. Recommend Ryan watch the reel directly for the actual recipe: https://www.facebook.com/reel/879596877881169",
   "tags": ["facebook-reel", "partial", "video-only"],
-  "emailSent": false
+  "emailSent": true
 }
