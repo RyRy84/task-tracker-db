@@ -1,0 +1,24 @@
+{
+  "id": "2026-07-31-easy-yummy-meal",
+  "type": "recipe",
+  "title": "Easy Yummy Meal (Kristen Cooking Reel)",
+  "capturedAt": "2026-07-31T03:31:58Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-07-31T03:31:58Z",
+    "threadId": "19fb63abd003e92a"
+  },
+  "sourceUrl": "https://www.facebook.com/share/v/1DAZE3Q7eg/",
+  "servings": null,
+  "prepTime": null,
+  "cookTime": null,
+  "ingredients": [
+    "A Tyson-brand ingredient bag (contents not identifiable from video frame)",
+    "A second bag, possibly frozen hash browns or a shredded cheese blend (contents not identifiable from video frame)"
+  ],
+  "instructions": [],
+  "notes": "PARTIAL — VIDEO ONLY. Could not extract the spoken recipe or a text caption/description. Creator: 'Kristen Cooking' on Facebook. The reel shows a home kitchen with a Tyson-brand bag and a second frozen food bag; the only on-screen text captured was the burned-in caption 'Easy, yummy meal!'. The post has no written caption/description in the DOM, and the comments section (2 comments total: 'Lots of sodium & starch' and 'Looks amazing') does not contain a recipe. Direct URL: https://www.facebook.com/reel/879596877881169. Recommend Ryan open the reel manually and watch/listen for the full recipe if needed.",
+  "tags": ["video-only", "facebook-reel", "unverified", "needs-follow-up"],
+  "emailSent": false
+}
