@@ -211,8 +211,15 @@
       "title": "Tater Tot Casserole",
       "capturedAt": "2026-07-27T22:26:13Z",
       "file": "entries/2026-07-27-tater-tot-casserole.json"
+    },
+    {
+      "id": "2026-07-31-easy-yummy-meal",
+      "type": "recipe",
+      "title": "Easy Yummy Meal (Kristen Cooking Reel)",
+      "capturedAt": "2026-07-31T03:31:58Z",
+      "file": "entries/2026-07-31-easy-yummy-meal.json"
     }
   ],
-  "lastUpdated": "2026-07-27T22:26:13Z",
-  "totalEntries": 30
+  "lastUpdated": "2026-07-31T03:31:58Z",
+  "totalEntries": 31
 }
