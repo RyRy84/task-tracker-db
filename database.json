@@ -218,8 +218,15 @@
       "title": "Easy, Yummy Meal (Kristen Cooking Reel) — Partial, Video Only",
       "capturedAt": "2026-07-31T15:20:27Z",
       "file": "entries/2026-07-31-easy-yummy-meal.json"
+    },
+    {
+      "id": "2026-08-01-facebook-reel-unfetched",
+      "type": "other",
+      "title": "Facebook Reel (Content Unavailable)",
+      "capturedAt": "2026-08-01T22:13:47Z",
+      "file": "entries/2026-08-01-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-07-31T15:20:27Z",
-  "totalEntries": 31
+  "lastUpdated": "2026-08-01T22:13:47Z",
+  "totalEntries": 32
 }
