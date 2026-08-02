@@ -1,0 +1,16 @@
+{
+  "id": "2026-08-01-facebook-reel-unfetched",
+  "type": "other",
+  "title": "Facebook Reel (Content Unavailable)",
+  "capturedAt": "2026-08-01T22:13:47Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-08-01T22:13:47Z",
+    "threadId": "19fbf69d46f7909d"
+  },
+  "sourceUrl": "https://www.facebook.com/share/r/18yctTXQGx/",
+  "notes": "URL could not be fetched. web_fetch rejected the URL (not in provenance set) and the Claude in Chrome extension was not connected. Email body contained only the link with no other context, so content type could not be determined beyond 'other'.",
+  "tags": ["facebook", "reel", "unfetched"],
+  "emailSent": false
+}
