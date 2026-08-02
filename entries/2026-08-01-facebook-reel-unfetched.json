@@ -1,7 +1,7 @@
 {
-  "id": "2026-08-01-facebook-reel-unfetched",
-  "type": "other",
-  "title": "Facebook Reel (Content Unavailable)",
+  "id": "2026-08-01-easy-french-onion-chicken-rice-casserole",
+  "type": "recipe",
+  "title": "Easy French Onion Chicken and Rice Casserole",
   "capturedAt": "2026-08-01T22:13:47Z",
   "sourceEmail": {
     "subject": "Task",
@@ -10,7 +10,37 @@
     "threadId": "19fbf69d46f7909d"
   },
   "sourceUrl": "https://www.facebook.com/share/r/18yctTXQGx/",
-  "notes": "Email body contained only a Facebook reel link with no caption text. The link could not be fetched: web_fetch rejected it (URL not in provenance set) and the Chrome browser extension was disconnected/unreachable during this run, so the page content, caption, and first comment could not be retrieved. Content type could not be confidently classified without the video content.",
-  "tags": ["facebook", "reel", "unfetched"],
+  "originalRecipeUrl": "https://melissajorealrecipes.com/easy-french-onion-chicken-and-rice-casserole/",
+  "servings": "6",
+  "prepTime": "15 minutes",
+  "cookTime": "30 minutes",
+  "totalTime": "45 minutes",
+  "ingredients": [
+    "2 cups shredded rotisserie chicken",
+    "2 cups cooked white rice (jasmine rice recommended)",
+    "1 can Campbell's Cream of Chicken with Herbs Soup",
+    "1 cup sour cream",
+    "1/2 cup Hellmann's mayonnaise",
+    "1 packet Lipton Onion Soup Mix",
+    "A couple shakes of Worcestershire sauce",
+    "1 cup shredded mozzarella cheese",
+    "5 slices provolone cheese",
+    "1 cup crispy fried onions",
+    "3 tablespoons butter, melted",
+    "A few additional shakes of Worcestershire sauce",
+    "Cooking spray or butter, for greasing the casserole dish"
+  ],
+  "instructions": [
+    "Preheat oven to 350°F and grease a 9x9-inch casserole dish.",
+    "In a large bowl, combine shredded rotisserie chicken, cooked white rice, cream of chicken with herbs soup, sour cream, mayonnaise, Lipton Onion Soup Mix, a couple shakes of Worcestershire sauce, and shredded mozzarella cheese. Mix until fully combined and creamy.",
+    "Transfer the mixture to the greased casserole dish and spread into an even layer, pressing into the corners.",
+    "Arrange the 5 slices of provolone cheese evenly over the top (cut one slice in half to fit if needed).",
+    "Lightly crush the crispy fried onions (don't crush into crumbs — keep some crunch), then mix with melted butter and a few shakes of Worcestershire sauce until evenly coated.",
+    "Sprinkle the buttery crispy onion mixture evenly over the provolone cheese.",
+    "Bake uncovered on the middle or lower-middle rack at 350°F for 30 minutes, until hot, bubbly, and golden on top.",
+    "Let cool a few minutes before serving so the filling can set."
+  ],
+  "notes": "Use fully cooked rice — do not add uncooked rice. Any cooked white rice works. Leftover cooked chicken can substitute for rotisserie chicken. Can prep the chicken/rice mixture ahead and refrigerate; add the provolone and crispy onion topping just before baking for best crunch. Leftovers keep refrigerated 3-4 days; reheat individual portions in the microwave. Approx. 629 calories per serving.",
+  "tags": ["recipe", "casserole", "chicken", "rice", "french onion", "facebook"],
   "emailSent": false
 }
