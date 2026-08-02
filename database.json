@@ -220,13 +220,13 @@
       "file": "entries/2026-07-31-easy-yummy-meal.json"
     },
     {
-      "id": "2026-08-01-facebook-reel-unfetched",
-      "type": "other",
-      "title": "Facebook Reel (Content Unavailable)",
+      "id": "2026-08-01-easy-french-onion-chicken-rice-casserole",
+      "type": "recipe",
+      "title": "Easy French Onion Chicken and Rice Casserole",
       "capturedAt": "2026-08-01T22:13:47Z",
       "file": "entries/2026-08-01-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-08-01T22:13:47Z",
+  "lastUpdated": "2026-08-02T23:39:08Z",
   "totalEntries": 32
 }
