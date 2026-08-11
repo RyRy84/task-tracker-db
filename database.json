@@ -234,13 +234,13 @@
       "file": "entries/2026-08-09-french-onion-baked-chicken.json"
     },
     {
-      "id": "2026-08-11-facebook-reel-unfetched",
-      "type": "other",
-      "title": "Facebook Reel (Content Unavailable)",
+      "id": "2026-08-11-vegan-apple-bread",
+      "type": "recipe",
+      "title": "Vegan Apple Bread with Cinnamon Cream Cheese Frosting",
       "capturedAt": "2026-08-11T00:43:07Z",
       "file": "entries/2026-08-11-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-08-11T20:02:17Z",
+  "lastUpdated": "2026-08-11T20:53:57Z",
   "totalEntries": 34
 }
