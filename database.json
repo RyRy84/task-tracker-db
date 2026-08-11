@@ -232,8 +232,15 @@
       "title": "French Onion Baked Chicken",
       "capturedAt": "2026-08-09T20:10:04Z",
       "file": "entries/2026-08-09-french-onion-baked-chicken.json"
+    },
+    {
+      "id": "2026-08-11-facebook-reel-unfetched",
+      "type": "other",
+      "title": "Facebook Reel (Content Unavailable)",
+      "capturedAt": "2026-08-11T00:43:07Z",
+      "file": "entries/2026-08-11-facebook-reel-unfetched.json"
     }
   ],
-  "lastUpdated": "2026-08-09T23:10:00Z",
-  "totalEntries": 33
+  "lastUpdated": "2026-08-11T20:02:17Z",
+  "totalEntries": 34
 }
