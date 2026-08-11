@@ -1,7 +1,7 @@
 {
-  "id": "2026-08-11-facebook-reel-unfetched",
-  "type": "other",
-  "title": "Facebook Reel (Content Unavailable)",
+  "id": "2026-08-11-vegan-apple-bread",
+  "type": "recipe",
+  "title": "Vegan Apple Bread with Cinnamon Cream Cheese Frosting",
   "capturedAt": "2026-08-11T00:43:07Z",
   "sourceEmail": {
     "subject": "Task",
@@ -9,8 +9,35 @@
     "date": "2026-08-11T00:43:07Z",
     "threadId": "19fee5cab955a5f2"
   },
-  "sourceUrl": "https://www.facebook.com/share/r/1Hdgv4w55S/",
-  "notes": "Email body contained only a Facebook reel link with no caption text. The link could not be fetched: web_fetch rejected it (URL not in provenance set) and the Chrome browser extension was disconnected/unreachable during this automated run, so the page content, caption, and first comment could not be retrieved. Content type could not be confidently classified without the video content.",
-  "tags": ["facebook", "reel", "unfetched"],
-  "emailSent": true
+  "sourceUrl": "https://peanutbutterandjilly.com/easy-apple-bread/",
+  "servings": "12 slices",
+  "prepTime": "5 minutes",
+  "cookTime": "30-40 minutes",
+  "ingredients": [
+    "1 cup unsweetened apple sauce",
+    "1/2 cup melted vegan butter",
+    "1 teaspoon vanilla",
+    "3/4 cup maple syrup",
+    "1/2 cup unsweetened almond or oat milk",
+    "2 teaspoon baking powder",
+    "1/2 teaspoon baking soda",
+    "1 teaspoon cinnamon",
+    "1/2 cup quick oats",
+    "2 1/4 cup oat flour",
+    "-- Cinnamon Cream Cheese Icing (optional) --",
+    "2 oz vegan cream cheese",
+    "2 tablespoon softened vegan butter",
+    "3/4 cup powdered sugar",
+    "1/2 teaspoon cinnamon"
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix together the apple sauce, butter, vanilla, maple syrup, and oat or almond milk. Add baking powder, cinnamon, and baking soda. Mix.",
+    "Add the oats and the oat flour and mix until combined. Pour the batter into a 9x5 loaf pan sprayed with baking spray. Optionally top with apple slices, or skip if topping with cinnamon cream cheese frosting.",
+    "Bake for about 30-40 minutes (depending on loaf pan type and oven).",
+    "Check doneness with a toothpick test. Serve immediately topped with cinnamon cream cheese icing."
+  ],
+  "notes": "Originally shared as a Facebook reel from 'Peanut Butter and Jilly' with the recipe link hidden behind the video's 'See more' caption expander (not in the first comment as usual) — the caption read: 'For the recipe comment RECIPE and I'll message it to you or you can go right over to peanutbutterandjilly.com/easy-apple-bread/'. Recipe is vegan and gluten-free friendly (uses oat flour + oats). Can substitute 1 3/4 cup regular or gluten-free all-purpose flour for the oat flour if needed. To freeze: cool completely, wrap in plastic wrap, freeze 60-90 days. Store at room temp covered 2 days or fridge up to 5 days. Original reel: https://www.facebook.com/share/r/1Hdgv4w55S/",
+  "tags": ["recipe", "apple bread", "fall", "vegan", "gluten-free", "breakfast", "dessert"],
+  "emailSent": false
 }
