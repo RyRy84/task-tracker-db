@@ -12,5 +12,5 @@
   "sourceUrl": "https://www.facebook.com/share/r/1Hdgv4w55S/",
   "notes": "Email body contained only a Facebook reel link with no caption text. The link could not be fetched: web_fetch rejected it (URL not in provenance set) and the Chrome browser extension was disconnected/unreachable during this automated run, so the page content, caption, and first comment could not be retrieved. Content type could not be confidently classified without the video content.",
   "tags": ["facebook", "reel", "unfetched"],
-  "emailSent": false
+  "emailSent": true
 }
