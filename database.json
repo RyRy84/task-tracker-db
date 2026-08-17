@@ -239,8 +239,22 @@
       "title": "Vegan Apple Bread with Cinnamon Cream Cheese Frosting",
       "capturedAt": "2026-08-11T00:43:07Z",
       "file": "entries/2026-08-11-facebook-reel-unfetched.json"
+    },
+    {
+      "id": "2026-08-15-french-onion-baked-chicken-5min",
+      "type": "recipe",
+      "title": "5-Minute Prep French Onion Baked Chicken",
+      "capturedAt": "2026-08-16T19:05:00Z",
+      "file": "entries/2026-08-15-french-onion-baked-chicken-5min.json"
+    },
+    {
+      "id": "2026-08-16-pumpkin-cookie-bars",
+      "type": "recipe",
+      "title": "Easy Pumpkin Cookie Bars (Partial — Video Only)",
+      "capturedAt": "2026-08-16T19:00:00Z",
+      "file": "entries/2026-08-16-pumpkin-cookie-bars.json"
     }
   ],
-  "lastUpdated": "2026-08-11T20:53:57Z",
-  "totalEntries": 34
+  "lastUpdated": "2026-08-16T19:05:00Z",
+  "totalEntries": 36
 }
