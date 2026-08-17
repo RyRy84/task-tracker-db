@@ -1,0 +1,38 @@
+{
+  "id": "2026-08-15-french-onion-baked-chicken-5min",
+  "type": "recipe",
+  "title": "5-Minute Prep French Onion Baked Chicken",
+  "capturedAt": "2026-08-16T19:05:00Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-08-15T17:29:07Z",
+    "threadId": "1a00678a297c512d"
+  },
+  "sourceUrl": "https://www.facebook.com/share/r/184ZDLmw4D/",
+  "servings": "4 (one chicken breast per serving)",
+  "prepTime": "5 minutes",
+  "cookTime": "about 40-45 minutes (30 min covered + 10-15 min uncovered)",
+  "ingredients": [
+    "4 chicken breasts, sliced into thinner cutlets or pounded to an even thickness",
+    "1 (10.5 oz) can condensed French onion soup",
+    "1 cup French onion dip",
+    "1-1.5 cups seasoned croutons, crushed",
+    "8 slices provolone cheese",
+    "1/2 tsp garlic powder",
+    "Salt & pepper, to taste"
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "If chicken breasts are thick, slice in half horizontally to create thinner cutlets or pound to an even thickness.",
+    "Pour the French onion soup into the bottom of a baking dish.",
+    "Season chicken with salt, pepper, and garlic powder and arrange over the soup.",
+    "Spread the French onion dip over the chicken.",
+    "Top with crushed croutons, then add the provolone cheese slices.",
+    "Cover with foil and bake for about 30 minutes.",
+    "Remove the foil and bake another 10-15 minutes, or until the cheese is melted and golden and the chicken reaches 165°F internally."
+  ],
+  "notes": "Author (Whitney Kai Lyn / 'asa palette cafe · A sprinkle of happiness') noted in comments that if sodium is a concern it's fine to skip this recipe rather than substitute. Commenters suggested variations: Durkee fried onions or stuffing mix instead of croutons for a different texture, and boneless pork chops as a chicken substitute. Note: a similar French Onion Baked Chicken recipe was already captured on 2026-08-09 — this appears to be a repost/different post of essentially the same dish, kept as a separate entry since it came from a distinct email/thread with full ingredient quantities.",
+  "tags": ["chicken", "weeknight-dinner", "french-onion", "easy", "5-ingredient-ish"],
+  "emailSent": false
+}
