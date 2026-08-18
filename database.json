@@ -253,8 +253,15 @@
       "title": "Easy Pumpkin Cookie Bars (Partial — Video Only)",
       "capturedAt": "2026-08-16T19:00:00Z",
       "file": "entries/2026-08-16-pumpkin-cookie-bars.json"
+    },
+    {
+      "id": "2026-08-17-perfect-fall-soup",
+      "type": "recipe",
+      "title": "Perfect Fall Soup (\"The Good Soup\")",
+      "capturedAt": "2026-08-17T14:44:42Z",
+      "file": "entries/2026-08-17-perfect-fall-soup.json"
     }
   ],
-  "lastUpdated": "2026-08-16T19:05:00Z",
-  "totalEntries": 36
+  "lastUpdated": "2026-08-17T14:44:42Z",
+  "totalEntries": 37
 }
