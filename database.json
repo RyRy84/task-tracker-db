@@ -260,8 +260,29 @@
       "title": "Perfect Fall Soup (\"The Good Soup\")",
       "capturedAt": "2026-08-17T14:44:42Z",
       "file": "entries/2026-08-17-perfect-fall-soup.json"
+    },
+    {
+      "id": "2026-08-21-dump-and-bake-chicken-casserole",
+      "type": "recipe",
+      "title": "Dump and Bake Cheesy Chicken Casserole (Partial — Video Only)",
+      "capturedAt": "2026-08-21T23:41:22Z",
+      "file": "entries/2026-08-21-dump-and-bake-chicken-casserole.json"
+    },
+    {
+      "id": "2026-08-22-french-onion-beef-pasta",
+      "type": "recipe",
+      "title": "French Onion Beef Pasta",
+      "capturedAt": "2026-08-22T14:24:59Z",
+      "file": "entries/2026-08-22-french-onion-beef-pasta.json"
+    },
+    {
+      "id": "2026-08-22-foolproof-juicy-chicken",
+      "type": "recipe",
+      "title": "Foolproof Juicy Chicken (Stovetop Technique)",
+      "capturedAt": "2026-08-22T14:48:04Z",
+      "file": "entries/2026-08-22-foolproof-juicy-chicken.json"
     }
   ],
-  "lastUpdated": "2026-08-17T14:44:42Z",
-  "totalEntries": 37
+  "lastUpdated": "2026-08-22T14:48:04Z",
+  "totalEntries": 40
 }
