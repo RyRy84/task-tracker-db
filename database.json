@@ -281,8 +281,15 @@
       "title": "Foolproof Juicy Chicken (Stovetop Technique)",
       "capturedAt": "2026-08-22T14:48:04Z",
       "file": "entries/2026-08-22-foolproof-juicy-chicken.json"
+    },
+    {
+      "id": "2026-08-23-viral-cheese-dip",
+      "type": "recipe",
+      "title": "Haley Dollarhide's Viral Cheese Dip (Partial — Video Only)",
+      "capturedAt": "2026-08-23T02:06:00Z",
+      "file": "entries/2026-08-23-viral-cheese-dip.json"
     }
   ],
-  "lastUpdated": "2026-08-22T14:48:04Z",
-  "totalEntries": 40
+  "lastUpdated": "2026-08-23T02:06:00Z",
+  "totalEntries": 41
 }
