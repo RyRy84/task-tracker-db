@@ -288,8 +288,15 @@
       "title": "Haley Dollarhide's Viral Cheese Dip (Partial — Video Only)",
       "capturedAt": "2026-08-23T02:06:00Z",
       "file": "entries/2026-08-23-viral-cheese-dip.json"
+    },
+    {
+      "id": "2026-08-28-halfway-homemade-ice-cream",
+      "type": "recipe",
+      "title": "3-Ingredient \"Halfway Homemade\" Ice Cream",
+      "capturedAt": "2026-08-28T00:13:08Z",
+      "file": "entries/2026-08-28-halfway-homemade-ice-cream.json"
     }
   ],
-  "lastUpdated": "2026-08-23T02:06:00Z",
-  "totalEntries": 41
+  "lastUpdated": "2026-08-28T00:13:08Z",
+  "totalEntries": 42
 }
