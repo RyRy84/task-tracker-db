@@ -309,8 +309,15 @@
       "title": "Chocolate Coca-Cola Cake (Partial — Video Only)",
       "capturedAt": "2026-08-29T23:18:51Z",
       "file": "entries/2026-08-29-chocolate-coca-cola-cake.json"
+    },
+    {
+      "id": "2026-08-30-red-velvet-cheesecake-dump-cake",
+      "type": "recipe",
+      "title": "Red Velvet Cheesecake Dump Cake",
+      "capturedAt": "2026-08-30T16:53:08Z",
+      "file": "entries/2026-08-30-red-velvet-cheesecake-dump-cake.json"
     }
   ],
-  "lastUpdated": "2026-08-29T23:31:49Z",
-  "totalEntries": 44
+  "lastUpdated": "2026-08-30T16:53:08Z",
+  "totalEntries": 45
 }
