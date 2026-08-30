@@ -295,8 +295,22 @@
       "title": "3-Ingredient \"Halfway Homemade\" Ice Cream",
       "capturedAt": "2026-08-28T00:13:08Z",
       "file": "entries/2026-08-28-halfway-homemade-ice-cream.json"
+    },
+    {
+      "id": "2026-08-29-cheesy-chicken-rice-bake",
+      "type": "recipe",
+      "title": "Cheesy Chicken and Rice Bake (Partial — Video Only)",
+      "capturedAt": "2026-08-29T23:31:49Z",
+      "file": "entries/2026-08-29-cheesy-chicken-rice-bake.json"
+    },
+    {
+      "id": "2026-08-29-chocolate-coca-cola-cake",
+      "type": "recipe",
+      "title": "Chocolate Coca-Cola Cake (Partial — Video Only)",
+      "capturedAt": "2026-08-29T23:18:51Z",
+      "file": "entries/2026-08-29-chocolate-coca-cola-cake.json"
     }
   ],
-  "lastUpdated": "2026-08-28T00:13:08Z",
-  "totalEntries": 42
+  "lastUpdated": "2026-08-29T23:31:49Z",
+  "totalEntries": 44
 }
