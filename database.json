@@ -2,322 +2,55 @@
   "version": "1.0",
   "description": "Master index of all captured tasks, recipes, projects, and ideas from Gmail",
   "entries": [
-    {
-      "id": "2026-05-23-teriyaki-steak-fried-rice",
-      "type": "recipe",
-      "title": "Easy Teriyaki Steak Fried Rice",
-      "capturedAt": "2026-05-23T14:32:34Z",
-      "file": "entries/2026-05-23-teriyaki-steak-fried-rice.json"
-    },
-    {
-      "id": "2026-05-23-bacon-ranch-chicken-pasta",
-      "type": "recipe",
-      "title": "One Pan Bacon Ranch Cheddar Chicken Pasta",
-      "capturedAt": "2026-05-23T14:32:07Z",
-      "file": "entries/2026-05-23-bacon-ranch-chicken-pasta.json"
-    },
-    {
-      "id": "2026-05-23-5-minute-french-dips",
-      "type": "recipe",
-      "title": "5 Minute French Dips",
-      "capturedAt": "2026-05-23T15:47:29Z",
-      "file": "entries/2026-05-23-5-minute-french-dips.json"
-    },
-    {
-      "id": "2026-05-25-facebook-reel-unfetched",
-      "type": "other",
-      "title": "Facebook Reel (Content Unavailable)",
-      "capturedAt": "2026-05-25T23:13:29Z",
-      "file": "entries/2026-05-25-facebook-reel-unfetched.json"
-    },
-    {
-      "id": "2026-05-29-easy-crockpot-french-dip",
-      "type": "recipe",
-      "title": "Easy Crockpot French Dip",
-      "capturedAt": "2026-05-29T17:15:55Z",
-      "file": "entries/2026-05-29-easy-crockpot-french-dip.json"
-    },
-    {
-      "id": "2026-06-02-baked-caesar-chicken-sandwiches",
-      "type": "recipe",
-      "title": "Easy Baked Caesar Chicken Sandwiches",
-      "capturedAt": "2026-06-02T21:34:11Z",
-      "file": "entries/2026-06-02-baked-caesar-chicken-sandwiches.json"
-    },
-    {
-      "id": "2026-06-04-creamy-garlic-butter-chicken-rice",
-      "type": "recipe",
-      "title": "Creamy Garlic Butter Chicken and Rice",
-      "capturedAt": "2026-06-04T15:42:25Z",
-      "file": "entries/2026-06-04-creamy-garlic-butter-chicken-rice.json"
-    },
-    {
-      "id": "2026-06-05-crockpot-ribeye-au-jus-mushrooms",
-      "type": "recipe",
-      "title": "Crockpot Rib Eye with Au Jus and Mushrooms",
-      "capturedAt": "2026-06-05T13:12:54Z",
-      "file": "entries/2026-06-05-crockpot-ribeye-au-jus-mushrooms.json"
-    },
-    {
-      "id": "2026-06-06-cheesy-hashbrown-hamburger-casserole",
-      "type": "recipe",
-      "title": "Cheesy Hashbrown & Hamburger Casserole",
-      "capturedAt": "2026-06-06T21:59:57Z",
-      "file": "entries/2026-06-06-cheesy-hashbrown-hamburger-casserole.json"
-    },
-    {
-      "id": "2026-06-07-biscoff-rice-krispie-treats",
-      "type": "recipe",
-      "title": "Biscoff Rice Krispie Treats",
-      "capturedAt": "2026-06-07T22:55:34Z",
-      "file": "entries/2026-06-07-biscoff-rice-krispie-treats.json"
-    },
-    {
-      "id": "2026-06-10-mini-butter-cookies",
-      "type": "recipe",
-      "title": "Mini Butter Cookies",
-      "capturedAt": "2026-06-10T22:15:41Z",
-      "file": "entries/2026-06-10-mini-butter-cookies.json"
-    },
-    {
-      "id": "2026-06-11-grilled-cheese-burritos",
-      "type": "recipe",
-      "title": "Grilled Cheese Burritos",
-      "capturedAt": "2026-06-11T21:37:23Z",
-      "file": "entries/2026-06-11-grilled-cheese-burritos.json"
-    },
-    {
-      "id": "2026-06-12-chicken-pillows",
-      "type": "recipe",
-      "title": "Chicken Pillows",
-      "capturedAt": "2026-06-12T12:52:34Z",
-      "file": "entries/2026-06-12-chicken-pillows.json"
-    },
-    {
-      "id": "2026-06-12-betty-crocker-cereal-treats",
-      "type": "recipe",
-      "title": "Betty Crocker Cookie Mix Cereal Treats",
-      "capturedAt": "2026-06-12T13:08:03Z",
-      "file": "entries/2026-06-12-betty-crocker-cereal-treats.json"
-    },
-    {
-      "id": "2026-06-19-viral-oreo-cake",
-      "type": "recipe",
-      "title": "The \"Viral\" Oreo Cake",
-      "capturedAt": "2026-06-19T23:11:53Z",
-      "file": "entries/2026-06-19-viral-oreo-cake.json"
-    },
-    {
-      "id": "2026-06-20-lifemd-weight-tracking-reminder",
-      "type": "other",
-      "title": "LifeMD Weight Tracking Reminder",
-      "capturedAt": "2026-06-20T00:05:57Z",
-      "file": "entries/2026-06-20-lifemd-weight-tracking-reminder.json"
-    },
-    {
-      "id": "2026-06-21-baked-brown-sugar-french-toast",
-      "type": "recipe",
-      "title": "Baked Brown Sugar French Toast",
-      "capturedAt": "2026-06-21T23:35:31Z",
-      "file": "entries/2026-06-21-facebook-reel-unfetched.json"
-    },
-    {
-      "id": "2026-06-23-granny-cake",
-      "type": "recipe",
-      "title": "Granny Cake (Appalachian Pineapple Cake)",
-      "capturedAt": "2026-06-23T12:24:22Z",
-      "file": "entries/2026-06-23-granny-cake.json"
-    },
-    {
-      "id": "2026-06-25-chocolate-lush",
-      "type": "recipe",
-      "title": "Chocolate Lush",
-      "capturedAt": "2026-06-25T16:40:49Z",
-      "file": "entries/2026-06-25-chocolate-lush.json"
-    },
-    {
-      "id": "2026-06-27-cheesy-french-onion-casserole",
-      "type": "recipe",
-      "title": "Cheesy French Onion Hamburger Casserole",
-      "capturedAt": "2026-06-27T02:39:58Z",
-      "file": "entries/2026-06-27-cheesy-french-onion-casserole.json"
-    },
-    {
-      "id": "2026-07-01-chicken-bacon-ranch-sliders",
-      "type": "recipe",
-      "title": "Chicken Bacon & Ranch Sliders",
-      "capturedAt": "2026-07-01T03:43:43Z",
-      "file": "entries/2026-07-01-chicken-bacon-ranch-sliders.json"
-    },
-    {
-      "id": "2026-07-07-dolly-partons-5-ingredient-casserole",
-      "type": "recipe",
-      "title": "Dolly Parton's 5-Ingredient Casserole",
-      "capturedAt": "2026-07-07T21:51:32Z",
-      "file": "entries/2026-07-07-dolly-partons-5-ingredient-casserole.json"
-    },
-    {
-      "id": "2026-07-09-facebook-reel-unfetched",
-      "type": "other",
-      "title": "Facebook Reel (Content Unavailable)",
-      "capturedAt": "2026-07-09T16:56:41Z",
-      "file": "entries/2026-07-09-facebook-reel-unfetched.json"
-    },
-    {
-      "id": "2026-07-10-bacon-ranch-chicken-gnocchi",
-      "type": "recipe",
-      "title": "One Pan Creamy Bacon Ranch Chicken and Gnocchi",
-      "capturedAt": "2026-07-10T10:04:08Z",
-      "file": "entries/2026-07-10-bacon-ranch-chicken-gnocchi.json"
-    },
-    {
-      "id": "2026-07-11-cheesy-fried-flautas",
-      "type": "recipe",
-      "title": "Cheesy Fried Flautas",
-      "capturedAt": "2026-07-11T16:00:00Z",
-      "file": "entries/2026-07-11-cheesy-fried-flautas.json"
-    },
-    {
-      "id": "2026-07-12-cheddar-bay-chicken-bake",
-      "type": "recipe",
-      "title": "Cheddar Bay Chicken Bake",
-      "capturedAt": "2026-07-12T23:26:12Z",
-      "file": "entries/2026-07-12-cheddar-bay-chicken-bake.json"
-    },
-    {
-      "id": "2026-07-18-cheesy-ranch-potatoes-sausage",
-      "type": "recipe",
-      "title": "Cheesy Ranch Potatoes & Smoked Sausage",
-      "capturedAt": "2026-07-18T20:33:45Z",
-      "file": "entries/2026-07-18-cheesy-ranch-potatoes-sausage.json"
-    },
-    {
-      "id": "2026-07-24-chicken-enchiladas-cream-cheese",
-      "type": "recipe",
-      "title": "Chicken Enchiladas (Cream Cheese Wrapped)",
-      "capturedAt": "2026-07-25T12:53:59Z",
-      "file": "entries/2026-07-24-chicken-enchiladas-cream-cheese.json"
-    },
-    {
-      "id": "2026-07-26-garlic-butter-chicken-rigatoni",
-      "type": "recipe",
-      "title": "One-Pot Garlic Butter Chicken Rigatoni in Parmesan Sauce",
-      "capturedAt": "2026-07-26T17:35:58Z",
-      "file": "entries/2026-07-26-garlic-butter-chicken-rigatoni.json"
-    },
-    {
-      "id": "2026-07-27-tater-tot-casserole",
-      "type": "recipe",
-      "title": "Tater Tot Casserole",
-      "capturedAt": "2026-07-27T22:26:13Z",
-      "file": "entries/2026-07-27-tater-tot-casserole.json"
-    },
-    {
-      "id": "2026-07-31-easy-yummy-meal",
-      "type": "recipe",
-      "title": "Easy, Yummy Meal (Kristen Cooking Reel) — Partial, Video Only",
-      "capturedAt": "2026-07-31T15:20:27Z",
-      "file": "entries/2026-07-31-easy-yummy-meal.json"
-    },
-    {
-      "id": "2026-08-01-easy-french-onion-chicken-rice-casserole",
-      "type": "recipe",
-      "title": "Easy French Onion Chicken and Rice Casserole",
-      "capturedAt": "2026-08-01T22:13:47Z",
-      "file": "entries/2026-08-01-facebook-reel-unfetched.json"
-    },
-    {
-      "id": "2026-08-09-french-onion-baked-chicken",
-      "type": "recipe",
-      "title": "French Onion Baked Chicken",
-      "capturedAt": "2026-08-09T20:10:04Z",
-      "file": "entries/2026-08-09-french-onion-baked-chicken.json"
-    },
-    {
-      "id": "2026-08-11-vegan-apple-bread",
-      "type": "recipe",
-      "title": "Vegan Apple Bread with Cinnamon Cream Cheese Frosting",
-      "capturedAt": "2026-08-11T00:43:07Z",
-      "file": "entries/2026-08-11-facebook-reel-unfetched.json"
-    },
-    {
-      "id": "2026-08-15-french-onion-baked-chicken-5min",
-      "type": "recipe",
-      "title": "5-Minute Prep French Onion Baked Chicken",
-      "capturedAt": "2026-08-16T19:05:00Z",
-      "file": "entries/2026-08-15-french-onion-baked-chicken-5min.json"
-    },
-    {
-      "id": "2026-08-16-pumpkin-cookie-bars",
-      "type": "recipe",
-      "title": "Easy Pumpkin Cookie Bars (Partial — Video Only)",
-      "capturedAt": "2026-08-16T19:00:00Z",
-      "file": "entries/2026-08-16-pumpkin-cookie-bars.json"
-    },
-    {
-      "id": "2026-08-17-perfect-fall-soup",
-      "type": "recipe",
-      "title": "Perfect Fall Soup (\"The Good Soup\")",
-      "capturedAt": "2026-08-17T14:44:42Z",
-      "file": "entries/2026-08-17-perfect-fall-soup.json"
-    },
-    {
-      "id": "2026-08-21-dump-and-bake-chicken-casserole",
-      "type": "recipe",
-      "title": "Dump and Bake Cheesy Chicken Casserole (Partial — Video Only)",
-      "capturedAt": "2026-08-21T23:41:22Z",
-      "file": "entries/2026-08-21-dump-and-bake-chicken-casserole.json"
-    },
-    {
-      "id": "2026-08-22-french-onion-beef-pasta",
-      "type": "recipe",
-      "title": "French Onion Beef Pasta",
-      "capturedAt": "2026-08-22T14:24:59Z",
-      "file": "entries/2026-08-22-french-onion-beef-pasta.json"
-    },
-    {
-      "id": "2026-08-22-foolproof-juicy-chicken",
-      "type": "recipe",
-      "title": "Foolproof Juicy Chicken (Stovetop Technique)",
-      "capturedAt": "2026-08-22T14:48:04Z",
-      "file": "entries/2026-08-22-foolproof-juicy-chicken.json"
-    },
-    {
-      "id": "2026-08-23-viral-cheese-dip",
-      "type": "recipe",
-      "title": "Haley Dollarhide's Viral Cheese Dip (Partial — Video Only)",
-      "capturedAt": "2026-08-23T02:06:00Z",
-      "file": "entries/2026-08-23-viral-cheese-dip.json"
-    },
-    {
-      "id": "2026-08-28-halfway-homemade-ice-cream",
-      "type": "recipe",
-      "title": "3-Ingredient \"Halfway Homemade\" Ice Cream",
-      "capturedAt": "2026-08-28T00:13:08Z",
-      "file": "entries/2026-08-28-halfway-homemade-ice-cream.json"
-    },
-    {
-      "id": "2026-08-29-cheesy-chicken-rice-bake",
-      "type": "recipe",
-      "title": "Cheesy Chicken and Rice Bake (Partial — Video Only)",
-      "capturedAt": "2026-08-29T23:31:49Z",
-      "file": "entries/2026-08-29-cheesy-chicken-rice-bake.json"
-    },
-    {
-      "id": "2026-08-29-chocolate-coca-cola-cake",
-      "type": "recipe",
-      "title": "Chocolate Coca-Cola Cake (Partial — Video Only)",
-      "capturedAt": "2026-08-29T23:18:51Z",
-      "file": "entries/2026-08-29-chocolate-coca-cola-cake.json"
-    },
-    {
-      "id": "2026-08-30-red-velvet-cheesecake-dump-cake",
-      "type": "recipe",
-      "title": "Red Velvet Cheesecake Dump Cake",
-      "capturedAt": "2026-08-30T16:53:08Z",
-      "file": "entries/2026-08-30-red-velvet-cheesecake-dump-cake.json"
-    }
+    {"id":"2026-05-23-teriyaki-steak-fried-rice","type":"recipe","title":"Easy Teriyaki Steak Fried Rice","capturedAt":"2026-05-23T14:32:34Z","file":"entries/2026-05-23-teriyaki-steak-fried-rice.json"},
+    {"id":"2026-05-23-bacon-ranch-chicken-pasta","type":"recipe","title":"One Pan Bacon Ranch Cheddar Chicken Pasta","capturedAt":"2026-05-23T14:32:07Z","file":"entries/2026-05-23-bacon-ranch-chicken-pasta.json"},
+    {"id":"2026-05-23-5-minute-french-dips","type":"recipe","title":"5 Minute French Dips","capturedAt":"2026-05-23T15:47:29Z","file":"entries/2026-05-23-5-minute-french-dips.json"},
+    {"id":"2026-05-25-facebook-reel-unfetched","type":"other","title":"Facebook Reel (Content Unavailable)","capturedAt":"2026-05-25T23:13:29Z","file":"entries/2026-05-25-facebook-reel-unfetched.json"},
+    {"id":"2026-05-29-easy-crockpot-french-dip","type":"recipe","title":"Easy Crockpot French Dip","capturedAt":"2026-05-29T17:15:55Z","file":"entries/2026-05-29-easy-crockpot-french-dip.json"},
+    {"id":"2026-06-02-baked-caesar-chicken-sandwiches","type":"recipe","title":"Easy Baked Caesar Chicken Sandwiches","capturedAt":"2026-06-02T21:34:11Z","file":"entries/2026-06-02-baked-caesar-chicken-sandwiches.json"},
+    {"id":"2026-06-04-creamy-garlic-butter-chicken-rice","type":"recipe","title":"Creamy Garlic Butter Chicken and Rice","capturedAt":"2026-06-04T15:42:25Z","file":"entries/2026-06-04-creamy-garlic-butter-chicken-rice.json"},
+    {"id":"2026-06-05-crockpot-ribeye-au-jus-mushrooms","type":"recipe","title":"Crockpot Rib Eye with Au Jus and Mushrooms","capturedAt":"2026-06-05T13:12:54Z","file":"entries/2026-06-05-crockpot-ribeye-au-jus-mushrooms.json"},
+    {"id":"2026-06-06-cheesy-hashbrown-hamburger-casserole","type":"recipe","title":"Cheesy Hashbrown & Hamburger Casserole","capturedAt":"2026-06-06T21:59:57Z","file":"entries/2026-06-06-cheesy-hashbrown-hamburger-casserole.json"},
+    {"id":"2026-06-07-biscoff-rice-krispie-treats","type":"recipe","title":"Biscoff Rice Krispie Treats","capturedAt":"2026-06-07T22:55:34Z","file":"entries/2026-06-07-biscoff-rice-krispie-treats.json"},
+    {"id":"2026-06-10-mini-butter-cookies","type":"recipe","title":"Mini Butter Cookies","capturedAt":"2026-06-10T22:15:41Z","file":"entries/2026-06-10-mini-butter-cookies.json"},
+    {"id":"2026-06-11-grilled-cheese-burritos","type":"recipe","title":"Grilled Cheese Burritos","capturedAt":"2026-06-11T21:37:23Z","file":"entries/2026-06-11-grilled-cheese-burritos.json"},
+    {"id":"2026-06-12-chicken-pillows","type":"recipe","title":"Chicken Pillows","capturedAt":"2026-06-12T12:52:34Z","file":"entries/2026-06-12-chicken-pillows.json"},
+    {"id":"2026-06-12-betty-crocker-cereal-treats","type":"recipe","title":"Betty Crocker Cookie Mix Cereal Treats","capturedAt":"2026-06-12T13:08:03Z","file":"entries/2026-06-12-betty-crocker-cereal-treats.json"},
+    {"id":"2026-06-19-viral-oreo-cake","type":"recipe","title":"The \"Viral\" Oreo Cake","capturedAt":"2026-06-19T23:11:53Z","file":"entries/2026-06-19-viral-oreo-cake.json"},
+    {"id":"2026-06-20-lifemd-weight-tracking-reminder","type":"other","title":"LifeMD Weight Tracking Reminder","capturedAt":"2026-06-20T00:05:57Z","file":"entries/2026-06-20-lifemd-weight-tracking-reminder.json"},
+    {"id":"2026-06-21-baked-brown-sugar-french-toast","type":"recipe","title":"Baked Brown Sugar French Toast","capturedAt":"2026-06-21T23:35:31Z","file":"entries/2026-06-21-facebook-reel-unfetched.json"},
+    {"id":"2026-06-23-granny-cake","type":"recipe","title":"Granny Cake (Appalachian Pineapple Cake)","capturedAt":"2026-06-23T12:24:22Z","file":"entries/2026-06-23-granny-cake.json"},
+    {"id":"2026-06-25-chocolate-lush","type":"recipe","title":"Chocolate Lush","capturedAt":"2026-06-25T16:40:49Z","file":"entries/2026-06-25-chocolate-lush.json"},
+    {"id":"2026-06-27-cheesy-french-onion-casserole","type":"recipe","title":"Cheesy French Onion Hamburger Casserole","capturedAt":"2026-06-27T02:39:58Z","file":"entries/2026-06-27-cheesy-french-onion-casserole.json"},
+    {"id":"2026-07-01-chicken-bacon-ranch-sliders","type":"recipe","title":"Chicken Bacon & Ranch Sliders","capturedAt":"2026-07-01T03:43:43Z","file":"entries/2026-07-01-chicken-bacon-ranch-sliders.json"},
+    {"id":"2026-07-07-dolly-partons-5-ingredient-casserole","type":"recipe","title":"Dolly Parton's 5-Ingredient Casserole","capturedAt":"2026-07-07T21:51:32Z","file":"entries/2026-07-07-dolly-partons-5-ingredient-casserole.json"},
+    {"id":"2026-07-09-facebook-reel-unfetched","type":"other","title":"Facebook Reel (Content Unavailable)","capturedAt":"2026-07-09T16:56:41Z","file":"entries/2026-07-09-facebook-reel-unfetched.json"},
+    {"id":"2026-07-10-bacon-ranch-chicken-gnocchi","type":"recipe","title":"One Pan Creamy Bacon Ranch Chicken and Gnocchi","capturedAt":"2026-07-10T10:04:08Z","file":"entries/2026-07-10-bacon-ranch-chicken-gnocchi.json"},
+    {"id":"2026-07-11-cheesy-fried-flautas","type":"recipe","title":"Cheesy Fried Flautas","capturedAt":"2026-07-11T16:00:00Z","file":"entries/2026-07-11-cheesy-fried-flautas.json"},
+    {"id":"2026-07-12-cheddar-bay-chicken-bake","type":"recipe","title":"Cheddar Bay Chicken Bake","capturedAt":"2026-07-12T23:26:12Z","file":"entries/2026-07-12-cheddar-bay-chicken-bake.json"},
+    {"id":"2026-07-18-cheesy-ranch-potatoes-sausage","type":"recipe","title":"Cheesy Ranch Potatoes & Smoked Sausage","capturedAt":"2026-07-18T20:33:45Z","file":"entries/2026-07-18-cheesy-ranch-potatoes-sausage.json"},
+    {"id":"2026-07-24-chicken-enchiladas-cream-cheese","type":"recipe","title":"Chicken Enchiladas (Cream Cheese Wrapped)","capturedAt":"2026-07-25T12:53:59Z","file":"entries/2026-07-24-chicken-enchiladas-cream-cheese.json"},
+    {"id":"2026-07-26-garlic-butter-chicken-rigatoni","type":"recipe","title":"One-Pot Garlic Butter Chicken Rigatoni in Parmesan Sauce","capturedAt":"2026-07-26T17:35:58Z","file":"entries/2026-07-26-garlic-butter-chicken-rigatoni.json"},
+    {"id":"2026-07-27-tater-tot-casserole","type":"recipe","title":"Tater Tot Casserole","capturedAt":"2026-07-27T22:26:13Z","file":"entries/2026-07-27-tater-tot-casserole.json"},
+    {"id":"2026-07-31-easy-yummy-meal","type":"recipe","title":"Easy, Yummy Meal (Kristen Cooking Reel) — Partial, Video Only","capturedAt":"2026-07-31T15:20:27Z","file":"entries/2026-07-31-easy-yummy-meal.json"},
+    {"id":"2026-08-01-easy-french-onion-chicken-rice-casserole","type":"recipe","title":"Easy French Onion Chicken and Rice Casserole","capturedAt":"2026-08-01T22:13:47Z","file":"entries/2026-08-01-facebook-reel-unfetched.json"},
+    {"id":"2026-08-09-french-onion-baked-chicken","type":"recipe","title":"French Onion Baked Chicken","capturedAt":"2026-08-09T20:10:04Z","file":"entries/2026-08-09-french-onion-baked-chicken.json"},
+    {"id":"2026-08-11-vegan-apple-bread","type":"recipe","title":"Vegan Apple Bread with Cinnamon Cream Cheese Frosting","capturedAt":"2026-08-11T00:43:07Z","file":"entries/2026-08-11-facebook-reel-unfetched.json"},
+    {"id":"2026-08-15-french-onion-baked-chicken-5min","type":"recipe","title":"5-Minute Prep French Onion Baked Chicken","capturedAt":"2026-08-16T19:05:00Z","file":"entries/2026-08-15-french-onion-baked-chicken-5min.json"},
+    {"id":"2026-08-16-pumpkin-cookie-bars","type":"recipe","title":"Easy Pumpkin Cookie Bars (Partial — Video Only)","capturedAt":"2026-08-16T19:00:00Z","file":"entries/2026-08-16-pumpkin-cookie-bars.json"},
+    {"id":"2026-08-17-perfect-fall-soup","type":"recipe","title":"Perfect Fall Soup (\"The Good Soup\")","capturedAt":"2026-08-17T14:44:42Z","file":"entries/2026-08-17-perfect-fall-soup.json"},
+    {"id":"2026-08-21-dump-and-bake-chicken-casserole","type":"recipe","title":"Dump and Bake Cheesy Chicken Casserole (Partial — Video Only)","capturedAt":"2026-08-21T23:41:22Z","file":"entries/2026-08-21-dump-and-bake-chicken-casserole.json"},
+    {"id":"2026-08-22-french-onion-beef-pasta","type":"recipe","title":"French Onion Beef Pasta","capturedAt":"2026-08-22T14:24:59Z","file":"entries/2026-08-22-french-onion-beef-pasta.json"},
+    {"id":"2026-08-22-foolproof-juicy-chicken","type":"recipe","title":"Foolproof Juicy Chicken (Stovetop Technique)","capturedAt":"2026-08-22T14:48:04Z","file":"entries/2026-08-22-foolproof-juicy-chicken.json"},
+    {"id":"2026-08-23-viral-cheese-dip","type":"recipe","title":"Haley Dollarhide's Viral Cheese Dip (Partial — Video Only)","capturedAt":"2026-08-23T02:06:00Z","file":"entries/2026-08-23-viral-cheese-dip.json"},
+    {"id":"2026-08-28-halfway-homemade-ice-cream","type":"recipe","title":"3-Ingredient \"Halfway Homemade\" Ice Cream","capturedAt":"2026-08-28T00:13:08Z","file":"entries/2026-08-28-halfway-homemade-ice-cream.json"},
+    {"id":"2026-08-29-cheesy-chicken-rice-bake","type":"recipe","title":"Cheesy Chicken and Rice Bake (Partial — Video Only)","capturedAt":"2026-08-29T23:31:49Z","file":"entries/2026-08-29-cheesy-chicken-rice-bake.json"},
+    {"id":"2026-08-29-chocolate-coca-cola-cake","type":"recipe","title":"Chocolate Coca-Cola Cake (Partial — Video Only)","capturedAt":"2026-08-29T23:18:51Z","file":"entries/2026-08-29-chocolate-coca-cola-cake.json"},
+    {"id":"2026-08-30-red-velvet-cheesecake-dump-cake","type":"recipe","title":"Red Velvet Cheesecake Dump Cake","capturedAt":"2026-08-30T16:53:08Z","file":"entries/2026-08-30-red-velvet-cheesecake-dump-cake.json"},
+    {"id":"2026-09-02-tess-walker-tater-tot-casserole","type":"recipe","title":"Tess Walker's Tater Tot Casserole (Partial — Video Only)","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-tess-walker-tater-tot-casserole.json"},
+    {"id":"2026-09-02-linda-skeens-cheesy-potatoes","type":"recipe","title":"Linda Skeens' Cheesy Potatoes (Partial — Video Only)","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-linda-skeens-cheesy-potatoes.json"},
+    {"id":"2026-09-02-cream-cheese-dump-bake-pasta","type":"recipe","title":"Valerie Rogers' Cream Cheese Dump & Bake Pasta","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-cream-cheese-dump-bake-pasta.json"}
   ],
-  "lastUpdated": "2026-08-30T16:53:08Z",
-  "totalEntries": 45
+  "lastUpdated": "2026-09-03T00:47:35Z",
+  "totalEntries": 48
 }
