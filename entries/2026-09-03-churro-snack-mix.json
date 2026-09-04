@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-03-churro-snack-mix",
+  "type": "recipe",
+  "title": "Churro Snack Mix",
+  "capturedAt": "2026-09-03T22:25:42Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-09-03T22:25:42Z",
+    "threadId": "1a06960e65a58d95"
+  },
+  "sourceUrl": "https://www.facebook.com/share/v/19i5cHTe8e/",
+  "servings": "",
+  "prepTime": "",
+  "cookTime": "15 minutes",
+  "ingredients": [
+    "2 cups (4 sticks) salted butter",
+    "2 cups packed brown sugar",
+    "2 tsp vanilla",
+    "2 tsp cinnamon",
+    "2 bags of oyster crackers",
+    "Coating: 1 cup granulated sugar",
+    "Coating: 2 tsp cinnamon",
+    "Coating: 1 tsp salt"
+  ],
+  "instructions": [
+    "In a saucepan, melt 2 cups salted butter and 2 cups packed brown sugar and bring to a gentle boil. Take off the heat.",
+    "Add 2 tsp vanilla and 2 tsp cinnamon, then mix until combined.",
+    "Add in 2 bags of oyster crackers and mix until coated.",
+    "Spread the mixture onto a foil-lined baking sheet and bake at 350°F for 15 minutes.",
+    "While it bakes, mix together the coating ingredients: sugar, cinnamon, and salt.",
+    "Let crackers cool for 2-3 minutes.",
+    "While still warm (but not hot), transfer to a large bowl.",
+    "Sprinkle the cinnamon sugar mix over top and toss until every piece is coated."
+  ],
+  "notes": "Recipe creator says: 'I love making this for every family event!' Recipe from her cookbook, more at https://krafftyskitchen.com/",
+  "tags": ["snack", "churro", "sweet", "party-food"],
+  "emailSent": false
+}
