@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-03-teriyaki-pork-bites-noodles",
+  "type": "recipe",
+  "title": "Teriyaki Pork Bites and Noodles",
+  "capturedAt": "2026-09-03T12:28:36Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-09-03T12:28:36Z",
+    "threadId": "1a0673e40d486f3a"
+  },
+  "sourceUrl": "https://www.facebook.com/share/r/1KBa43tzkJ/",
+  "servings": "",
+  "prepTime": "",
+  "cookTime": "4-5 hours (crockpot, low)",
+  "ingredients": [
+    "2 pounds pork chops, cut into bite size pieces",
+    "3/4 cup soy sauce",
+    "1/2 cup brown sugar",
+    "1/4 cup honey",
+    "1 tablespoon sesame oil",
+    "2 tablespoons white wine vinegar",
+    "1 teaspoon ginger paste (or grate your own)",
+    "2 tablespoons minced garlic",
+    "black pepper to taste",
+    "2-3 tablespoons cornstarch (depending on desired sauce thickness)",
+    "4 packs ramen noodles (discard seasoning packets)"
+  ],
+  "instructions": [
+    "Spray down the crock pot.",
+    "Add soy sauce, brown sugar, honey, sesame oil, white wine vinegar, ginger paste, garlic, pepper, and cornstarch. Mix until well combined.",
+    "Add pork chop bites and toss with the sauce.",
+    "Cook on low for 4-5 hours.",
+    "When pork chops are done, cook the ramen noodles, strain, and add them in.",
+    "Toss everything together.",
+    "Top with chives and sesame seeds if desired."
+  ],
+  "notes": "",
+  "tags": ["crockpot", "pork", "noodles", "dinner"],
+  "emailSent": false
+}
