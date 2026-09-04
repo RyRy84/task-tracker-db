@@ -49,8 +49,12 @@
     {"id":"2026-08-30-red-velvet-cheesecake-dump-cake","type":"recipe","title":"Red Velvet Cheesecake Dump Cake","capturedAt":"2026-08-30T16:53:08Z","file":"entries/2026-08-30-red-velvet-cheesecake-dump-cake.json"},
     {"id":"2026-09-02-tess-walker-tater-tot-casserole","type":"recipe","title":"Tess Walker's Tater Tot Casserole (Partial — Video Only)","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-tess-walker-tater-tot-casserole.json"},
     {"id":"2026-09-02-linda-skeens-cheesy-potatoes","type":"recipe","title":"Linda Skeens' Cheesy Potatoes (Partial — Video Only)","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-linda-skeens-cheesy-potatoes.json"},
-    {"id":"2026-09-02-cream-cheese-dump-bake-pasta","type":"recipe","title":"Valerie Rogers' Cream Cheese Dump & Bake Pasta","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-cream-cheese-dump-bake-pasta.json"}
+    {"id":"2026-09-02-cream-cheese-dump-bake-pasta","type":"recipe","title":"Valerie Rogers' Cream Cheese Dump & Bake Pasta","capturedAt":"2026-09-03T00:47:35Z","file":"entries/2026-09-02-cream-cheese-dump-bake-pasta.json"},
+    {"id":"2026-09-03-churro-snack-mix","type":"recipe","title":"Churro Snack Mix","capturedAt":"2026-09-03T22:25:42Z","file":"entries/2026-09-03-churro-snack-mix.json"},
+    {"id":"2026-09-03-crack-chicken-roll-ups","type":"recipe","title":"Crack Chicken Roll Ups","capturedAt":"2026-09-03T21:09:03Z","file":"entries/2026-09-03-crack-chicken-roll-ups.json"},
+    {"id":"2026-09-03-easy-rice-bake","type":"recipe","title":"Easy Rice Bake","capturedAt":"2026-09-03T21:06:03Z","file":"entries/2026-09-03-easy-rice-bake.json"},
+    {"id":"2026-09-03-teriyaki-pork-bites-noodles","type":"recipe","title":"Teriyaki Pork Bites and Noodles","capturedAt":"2026-09-03T12:28:36Z","file":"entries/2026-09-03-teriyaki-pork-bites-noodles.json"}
   ],
-  "lastUpdated": "2026-09-03T00:47:35Z",
-  "totalEntries": 48
+  "lastUpdated": "2026-09-03T22:25:42Z",
+  "totalEntries": 52
 }
