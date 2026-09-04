@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-03-easy-rice-bake",
+  "type": "recipe",
+  "title": "Easy Rice Bake",
+  "capturedAt": "2026-09-03T21:06:03Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-09-03T21:06:03Z",
+    "threadId": "1a06917fbd35d8f0"
+  },
+  "sourceUrl": "https://www.facebook.com/share/r/1JNg9UEPUd/",
+  "servings": "large batch, feeds a crowd",
+  "prepTime": "",
+  "cookTime": "25 minutes",
+  "ingredients": [
+    "1 stick butter",
+    "1 small onion, diced",
+    "6 oz dry angel hair or spaghetti, broken into pieces",
+    "2 cups uncooked rice",
+    "4.5 cups water",
+    "2 (or more to taste) tablespoons chicken soup base",
+    "salt and pepper to taste"
+  ],
+  "instructions": [
+    "Sauté butter, diced onion, broken pasta, and rice until browned.",
+    "Move to a 9x13 glass dish and spread evenly.",
+    "Boil 4.5 cups of water with chicken soup base, salt, and pepper.",
+    "Pour over rice mixture.",
+    "Bake at 350°F for about 25 minutes."
+  ],
+  "notes": "Can add veggies or meat to make it more of a full meal. Makes a large batch. Recipe credit: happyhealthyhome on IG.",
+  "tags": ["side-dish", "rice", "easy-weeknight"],
+  "emailSent": false
+}
