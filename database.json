@@ -53,8 +53,9 @@
     {"id":"2026-09-03-churro-snack-mix","type":"recipe","title":"Churro Snack Mix","capturedAt":"2026-09-03T22:25:42Z","file":"entries/2026-09-03-churro-snack-mix.json"},
     {"id":"2026-09-03-crack-chicken-roll-ups","type":"recipe","title":"Crack Chicken Roll Ups","capturedAt":"2026-09-03T21:09:03Z","file":"entries/2026-09-03-crack-chicken-roll-ups.json"},
     {"id":"2026-09-03-easy-rice-bake","type":"recipe","title":"Easy Rice Bake","capturedAt":"2026-09-03T21:06:03Z","file":"entries/2026-09-03-easy-rice-bake.json"},
-    {"id":"2026-09-03-teriyaki-pork-bites-noodles","type":"recipe","title":"Teriyaki Pork Bites and Noodles","capturedAt":"2026-09-03T12:28:36Z","file":"entries/2026-09-03-teriyaki-pork-bites-noodles.json"}
+    {"id":"2026-09-03-teriyaki-pork-bites-noodles","type":"recipe","title":"Teriyaki Pork Bites and Noodles","capturedAt":"2026-09-03T12:28:36Z","file":"entries/2026-09-03-teriyaki-pork-bites-noodles.json"},
+    {"id":"2026-09-06-cowboy-butter-chicken-pasta","type":"recipe","title":"Cowboy Butter Chicken Pasta","capturedAt":"2026-09-06T20:01:14Z","file":"entries/2026-09-06-cowboy-butter-chicken-pasta.json"}
   ],
-  "lastUpdated": "2026-09-03T22:25:42Z",
-  "totalEntries": 52
+  "lastUpdated": "2026-09-10T19:11:02Z",
+  "totalEntries": 53
 }
