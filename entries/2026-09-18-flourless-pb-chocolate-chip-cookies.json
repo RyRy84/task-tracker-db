@@ -1,32 +1,6 @@
 {
-  "id": "2026-09-18-flourless-pb-chocolate-chip-cookies",
-  "type": "recipe",
-  "title": "Flourless Peanut Butter Chocolate Chip Cookies",
-  "capturedAt": "2026-09-19T01:31:35Z",
-  "sourceEmail": {
-    "subject": "Task",
-    "from": "heatherknippa@gmail.com",
-    "date": "2026-09-18T12:17:00Z",
-    "threadId": "1a0b473094e96cae"
-  },
-  "sourceUrl": "https://www.instagram.com/reel/Db5sfS3BzcN/?stkn=MTJoZ2M2dHM5cDU0aw==",
-  "servings": "",
-  "prepTime": "",
-  "cookTime": "7-12 minutes",
-  "ingredients": [
-    "1 cup peanut butter",
-    "1 cup sugar",
-    "1 egg",
-    "Vanilla, to taste",
-    "Chocolate chips, a lot"
-  ],
-  "instructions": [
-    "Mix peanut butter, sugar, egg, vanilla, and chocolate chips together into a dough.",
-    "Scoop onto a pan (baking sheet).",
-    "Bake at 375°F for 7-12 minutes.",
-    "Move straight to the fridge to set/cool."
-  ],
-  "notes": "Flourless recipe from an Instagram reel caption by user 'lotsamiles'. No exact quantities for vanilla/chocolate chips given in source — approximate to taste.",
-  "tags": ["cookies", "peanut butter", "chocolate chip", "flourless", "quick", "instagram-reel"],
-  "emailSent": false
+  "duplicate": true,
+  "note": "This file was created by a concurrent run of the gmail-task-tracker scheduled task that raced with another run processing the same thread. The canonical entry for this recipe is entries/2026-09-18-pb-chocolate-chip-cookies.json (referenced in database.json, emailSent: true). This file is kept only to preserve history and should be ignored/removed manually.",
+  "threadId": "1a0b473094e96cae",
+  "supersededBy": "entries/2026-09-18-pb-chocolate-chip-cookies.json"
 }
