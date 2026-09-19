@@ -3,12 +3,7 @@
   "type": "recipe",
   "title": "Tater Tot Casserole",
   "capturedAt": "2026-07-27T22:26:13Z",
-  "sourceEmail": {
-    "subject": "Task",
-    "from": "heatherknippa@gmail.com",
-    "date": "2026-07-27T22:26:13Z",
-    "threadId": "19fa5c1f654a47f3"
-  },
+  "sourceEmail": { "subject": "Task", "from": "heatherknippa@gmail.com", "date": "2026-07-27T22:26:13Z", "threadId": "19fa5c1f654a47f3" },
   "sourceUrl": "https://www.facebook.com/share/v/1BEDzD3ShL/",
   "servings": "",
   "prepTime": "",
@@ -35,5 +30,5 @@
   ],
   "notes": "From a Facebook reel by Tess Walker. Commenters call this 'tater tot hotdish' in the Midwest. Variation ideas from comments: add a can of Rotel for spice, add a can of French-style green beans, or top with smoked bacon pieces.",
   "tags": ["casserole", "ground beef", "tater tots", "comfort food", "easy dinner"],
-  "emailSent": false
+  "emailSent": true
 }
