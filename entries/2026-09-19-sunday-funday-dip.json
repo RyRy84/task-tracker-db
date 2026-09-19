@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-19-sunday-funday-dip",
+  "type": "recipe",
+  "title": "Sunday Funday Dip",
+  "capturedAt": "2026-09-19T21:25:10Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-09-19T19:59:41Z",
+    "threadId": "1a0bb40f5183c0cb"
+  },
+  "sourceUrl": "https://aldentediva.com/sunday-funday-dip/",
+  "servings": "N/A",
+  "prepTime": "15 minutes",
+  "cookTime": "20 minutes",
+  "ingredients": [
+    "1 Pound Ground Beef",
+    "2 Oz Taco Seasoning Packets (2 packets total)",
+    "8 Oz Cream Cheese, room temperature",
+    "½ Cup Salsa",
+    "1 Cup Cheddar Cheese, hand shredded",
+    "Parsley for garnish (optional)",
+    "Tortilla Chips"
+  ],
+  "instructions": [
+    "Step 1: Preheat the oven to 350 degrees.",
+    "Step 2: Cook the ground beef according to the directions on the back of the taco seasoning packet. Use two packets instead of one for extra flavor.",
+    "Step 3: Spread the cream cheese on the bottom of an 8 x 8\" baking dish then add a layer of salsa.",
+    "Step 4: Add the taco-seasoned ground beef and sprinkle the top with shredded cheddar cheese.",
+    "Step 5: Place it in the oven for about 15-20 minutes, or until the cheese is melted and the sides are hot and bubbly.",
+    "Step 6: Let it sit for 5-10 minutes. Garnish with parsley and enjoy with tortilla chips!"
+  ],
+  "notes": "From the recipe collection of Tara Ippolito. Can be made ahead of time — prep the layers, cover and refrigerate until ready to bake (add a few extra minutes if going straight from fridge to oven). Ground chicken or turkey can substitute for beef. For a spicier version, use hot taco seasoning, hot salsa, and pepper jack cheese.",
+  "tags": ["appetizer", "snack", "dip", "tex-mex"],
+  "emailSent": false
+}
