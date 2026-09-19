@@ -56,8 +56,10 @@
     {"id":"2026-09-03-teriyaki-pork-bites-noodles","type":"recipe","title":"Teriyaki Pork Bites and Noodles","capturedAt":"2026-09-03T12:28:36Z","file":"entries/2026-09-03-teriyaki-pork-bites-noodles.json"},
     {"id":"2026-09-06-cowboy-butter-chicken-pasta","type":"recipe","title":"Cowboy Butter Chicken Pasta","capturedAt":"2026-09-06T20:01:14Z","file":"entries/2026-09-06-cowboy-butter-chicken-pasta.json"},
     {"id":"2026-09-18-pb-chocolate-chip-cookies","type":"recipe","title":"Flourless PB Chocolate Chip Cookies","capturedAt":"2026-09-18T12:17:00Z","file":"entries/2026-09-18-pb-chocolate-chip-cookies.json"},
-    {"id":"2026-09-19-easy-coca-cola-cake","type":"recipe","title":"Easy Coca-Cola Cake","capturedAt":"2026-09-19T17:55:49Z","file":"entries/2026-09-19-easy-coca-cola-cake.json"}
+    {"id":"2026-09-19-easy-coca-cola-cake","type":"recipe","title":"Easy Coca-Cola Cake","capturedAt":"2026-09-19T17:55:49Z","file":"entries/2026-09-19-easy-coca-cola-cake.json"},
+    {"id":"2026-09-19-crispy-baked-chicken-tacos","type":"recipe","title":"Crispy Baked Chicken Tacos","capturedAt":"2026-09-19T21:25:10Z","file":"entries/2026-09-19-crispy-baked-chicken-tacos.json"},
+    {"id":"2026-09-19-sunday-funday-dip","type":"recipe","title":"Sunday Funday Dip","capturedAt":"2026-09-19T21:25:10Z","file":"entries/2026-09-19-sunday-funday-dip.json"}
   ],
-  "lastUpdated": "2026-09-19T18:56:00Z",
-  "totalEntries": 55
+  "lastUpdated": "2026-09-19T21:25:10Z",
+  "totalEntries": 57
 }
