@@ -1,8 +1,8 @@
 {
   "id": "2026-09-18-pb-chocolate-chip-cookies",
   "type": "recipe",
-  "title": "Flourless PB Chocolate Chip Cookies",
-  "capturedAt": "2026-09-18T12:17:00Z",
+  "title": "Flourless Peanut Butter Chocolate Chip Cookies",
+  "capturedAt": "2026-09-19T01:31:05Z",
   "sourceEmail": {
     "subject": "Task",
     "from": "heatherknippa@gmail.com",
@@ -11,7 +11,7 @@
   },
   "sourceUrl": "https://www.instagram.com/reel/Db5sfS3BzcN/?stkn=MTJoZ2M2dHM5cDU0aw==",
   "servings": "not specified",
-  "prepTime": "not specified",
+  "prepTime": "5 minutes",
   "cookTime": "7-12 minutes",
   "ingredients": [
     "1 cup peanut butter",
@@ -21,13 +21,13 @@
     "A lot of chocolate chips"
   ],
   "instructions": [
-    "Step 1: Mix peanut butter, sugar, egg, and vanilla together until combined.",
-    "Step 2: Stir in chocolate chips.",
+    "Step 1: Mix peanut butter, sugar, egg, and vanilla together until well combined.",
+    "Step 2: Fold in chocolate chips.",
     "Step 3: Scoop dough onto a baking pan.",
     "Step 4: Bake at 375°F for 7-12 minutes.",
     "Step 5: Transfer straight to the fridge to set."
   ],
-  "notes": "Captured from an Instagram reel caption (@lotsamiles) — no video transcript, just the posted recipe text. No flour listed, so texture likely relies on the peanut butter as the base. Exact quantities for vanilla and chocolate chips weren't given (\"some\" and \"a lot\").",
-  "tags": ["cookies", "peanut butter", "chocolate chip", "flourless", "quick dessert"],
+  "notes": "Flourless recipe from an Instagram reel by @lotsamiles. Exact amounts of vanilla and chocolate chips weren't specified in the source — use to taste.",
+  "tags": ["cookies", "peanut butter", "flourless", "dessert", "quick"],
   "emailSent": false
 }
