@@ -58,8 +58,9 @@
     {"id":"2026-09-18-pb-chocolate-chip-cookies","type":"recipe","title":"Flourless PB Chocolate Chip Cookies","capturedAt":"2026-09-18T12:17:00Z","file":"entries/2026-09-18-pb-chocolate-chip-cookies.json"},
     {"id":"2026-09-19-easy-coca-cola-cake","type":"recipe","title":"Easy Coca-Cola Cake","capturedAt":"2026-09-19T17:55:49Z","file":"entries/2026-09-19-easy-coca-cola-cake.json"},
     {"id":"2026-09-19-crispy-baked-chicken-tacos","type":"recipe","title":"Crispy Baked Chicken Tacos","capturedAt":"2026-09-19T21:25:10Z","file":"entries/2026-09-19-crispy-baked-chicken-tacos.json"},
-    {"id":"2026-09-19-sunday-funday-dip","type":"recipe","title":"Sunday Funday Dip","capturedAt":"2026-09-19T21:25:10Z","file":"entries/2026-09-19-sunday-funday-dip.json"}
+    {"id":"2026-09-19-sunday-funday-dip","type":"recipe","title":"Sunday Funday Dip","capturedAt":"2026-09-19T21:25:10Z","file":"entries/2026-09-19-sunday-funday-dip.json"},
+    {"id":"2026-09-25-garlic-parmesan-chicken-rice","type":"recipe","title":"Garlic Parmesan Chicken & Cheddar Rice","capturedAt":"2026-09-25T23:05:10Z","file":"entries/2026-09-25-garlic-parmesan-chicken-rice.json"}
   ],
-  "lastUpdated": "2026-09-19T21:25:10Z",
-  "totalEntries": 57
+  "lastUpdated": "2026-09-25T23:05:10Z",
+  "totalEntries": 58
 }
