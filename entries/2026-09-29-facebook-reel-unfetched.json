@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-29-facebook-reel-unfetched",
+  "type": "other",
+  "title": "Facebook Reel (Content Unavailable)",
+  "capturedAt": "2026-09-29T11:25:00Z",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "heatherknippa@gmail.com",
+    "date": "2026-09-28T20:05:26Z",
+    "threadId": "1a0e99fbb7ff65f8"
+  },
+  "sourceUrl": "https://www.facebook.com/share/r/1D77h8nqD7/",
+  "resolvedUrl": "https://www.facebook.com/reel/30057372820529209",
+  "description": "Email body contained only a Facebook reel link. WebFetch was blocked (robots.txt) and the page loaded in Chrome without readable caption or comment text (client-rendered, only engagement counts). Likely a recipe reel but this could not be confirmed. Partial - video only.",
+  "notes": "Open the link to view the reel and check the first comment for the recipe.",
+  "tags": ["facebook-reel", "unverified", "partial"],
+  "emailSent": false
+}
