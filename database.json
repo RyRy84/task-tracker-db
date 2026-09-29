@@ -61,8 +61,9 @@
     {"id":"2026-09-19-sunday-funday-dip","type":"recipe","title":"Sunday Funday Dip","capturedAt":"2026-09-19T21:25:10Z","file":"entries/2026-09-19-sunday-funday-dip.json"},
     {"id":"2026-09-25-garlic-parmesan-chicken-rice","type":"recipe","title":"Garlic Parmesan Chicken & Cheddar Rice","capturedAt":"2026-09-25T23:05:10Z","file":"entries/2026-09-25-garlic-parmesan-chicken-rice.json"},
     {"id":"2026-09-27-magic-coca-cola-cake","type":"recipe","title":"\"Magic\" Coca-Cola Cake (500K Celebration)","capturedAt":"2026-09-27T17:27:25Z","file":"entries/2026-09-27-magic-coca-cola-cake.json"},
-    {"id":"2026-09-27-creamy-bacon-chicken","type":"recipe","title":"Creamy Bacon Chicken","capturedAt":"2026-09-27T17:27:25Z","file":"entries/2026-09-27-creamy-bacon-chicken.json"}
+    {"id":"2026-09-27-creamy-bacon-chicken","type":"recipe","title":"Creamy Bacon Chicken","capturedAt":"2026-09-27T17:27:25Z","file":"entries/2026-09-27-creamy-bacon-chicken.json"},
+    {"id":"2026-09-29-facebook-reel-unfetched","type":"other","title":"Facebook Reel (Content Unavailable)","capturedAt":"2026-09-29T11:25:00Z","file":"entries/2026-09-29-facebook-reel-unfetched.json"}
   ],
-  "lastUpdated": "2026-09-27T17:27:25Z",
-  "totalEntries": 60
+  "lastUpdated": "2026-09-29T11:25:00Z",
+  "totalEntries": 61
 }
