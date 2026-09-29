@@ -1,7 +1,7 @@
 {
-  "id": "2026-09-29-facebook-reel-unfetched",
-  "type": "other",
-  "title": "Facebook Reel (Content Unavailable)",
+  "id": "2026-09-29-caramel-apple-dip",
+  "type": "recipe",
+  "title": "Whipped Cream Cheese and Caramel Apple Dip",
   "capturedAt": "2026-09-29T11:25:00Z",
   "sourceEmail": {
     "subject": "Task",
@@ -9,10 +9,24 @@
     "date": "2026-09-28T20:05:26Z",
     "threadId": "1a0e99fbb7ff65f8"
   },
-  "sourceUrl": "https://www.facebook.com/share/r/1D77h8nqD7/",
-  "resolvedUrl": "https://www.facebook.com/reel/30057372820529209",
-  "description": "Email body contained only a Facebook reel link. WebFetch was blocked (robots.txt) and the page loaded in Chrome without readable caption or comment text (client-rendered, only engagement counts). Likely a recipe reel but this could not be confirmed. Partial - video only.",
-  "notes": "Open the link to view the reel and check the first comment for the recipe.",
-  "tags": ["facebook-reel", "unverified", "partial"],
-  "emailSent": true
+  "sourceUrl": "https://www.forkinthekitchen.com/5-minute-caramel-apple-dip/",
+  "reelUrl": "https://www.facebook.com/share/r/1D77h8nqD7/",
+  "servings": "8",
+  "prepTime": "5 minutes",
+  "cookTime": "None (5 minutes total)",
+  "ingredients": [
+    "8 ounces cream cheese, softened to room temperature",
+    "1/2 cup granulated sugar",
+    "1/2 cup brown sugar",
+    "1/2 teaspoon cinnamon",
+    "1 teaspoon caramel flavor/extract",
+    "Granny Smith apples, sliced, for serving"
+  ],
+  "instructions": [
+    "Step 1: Combine all ingredients (except apples) in a large mixing bowl. Using a hand-held or stand mixer, whip until the sugar fully dissolves into the cream cheese, scraping the bowl sides as necessary. Continue mixing if grainy until smooth and creamy.",
+    "Step 2: Serve immediately with sliced apples, or refrigerate in an airtight container for 4-5 days."
+  ],
+  "notes": "From the Fork in the Kitchen reel (link in the caption). Caramel flavor/extract is essential and is usually found near the vanilla extract. Any apple works, but tart Granny Smith balances the sweet dip best. Equipment: hand mixer.",
+  "tags": ["dip", "apple", "fall", "dessert", "no-cook"],
+  "emailSent": false
 }
