@@ -3,14 +3,19 @@
   "type": "recipe",
   "title": "Bacon Cheeseburger Soup",
   "capturedAt": "2026-09-30T12:00:00Z",
-  "sourceEmail": { "subject": "Task", "from": "ryry84@gmail.com", "date": "2026-09-30T02:41:20Z", "threadId": "1a0f030187fba67a" },
-  "sourceUrl": "https://www.facebook.com/reel/870737882348966",
-  "servings": "Not specified",
-  "prepTime": "Not specified",
-  "cookTime": "Not specified",
+  "sourceEmail": {
+    "subject": "Task",
+    "from": "ryry84@gmail.com",
+    "date": "2026-09-30T02:41:20Z",
+    "threadId": "1a0f030187fba67a"
+  },
+  "sourceUrl": "https://www.facebook.com/share/v/1C8VmaA9GU/",
+  "servings": "",
+  "prepTime": "",
+  "cookTime": "",
   "ingredients": [
     "1 lb ground beef",
-    "1 Tbsp bacon grease or olive oil",
+    "1 Tbsp bacon grease (or olive oil)",
     "1 Tbsp butter",
     "1 whole onion, chopped",
     "Chopped celery and carrots (equal in amount to the onion)",
@@ -20,21 +25,21 @@
     "4 cups peeled/cubed potatoes",
     "4 cups chicken broth",
     "1 1/2 cups milk",
-    "16 oz block of Velveeta, cubed",
+    "16 oz block Velveeta, cubed",
     "1/4 cup sour cream (or 1/2 block cream cheese)",
-    "1-1.5 lbs chopped cooked bacon",
-    "Salt and pepper to taste",
+    "1 - 1.5 lbs chopped cooked bacon",
+    "Salt and pepper, to taste",
     "Optional garnish: parsley, croutons, crackers"
   ],
   "instructions": [
-    "Step 1: Brown the ground beef in a large stock pot. Once cooked, use a paper towel to remove excess grease, then remove from the pot and set aside.",
-    "Step 2: Add the bacon grease (or olive oil) and 1 Tbsp butter to the pot over medium heat. Once melted, add the onion, carrots, and celery, season with basil, salt, and pepper, and stir until tender.",
-    "Step 3: Once the carrots are softened, add the remaining 3 Tbsp butter and the flour, stirring to coat evenly. Cook a few minutes to brown and remove the raw flour taste.",
-    "Step 4: Add the potatoes and stir until incorporated. Pour in the chicken broth and bring to a light boil, stirring occasionally.",
-    "Step 5: Once the potatoes are fork tender, add the milk, sour cream, and Velveeta; stir until the cheese is completely melted into the soup.",
-    "Step 6: Turn off the heat and add the chopped bacon (save some to garnish if desired). Taste and adjust seasoning. Top with parsley or serve with crackers and croutons."
+    "Brown the ground beef in a large stock pot. Once cooked, use a paper towel to remove excess grease, then remove the beef from the pot and set aside.",
+    "Add the bacon grease and 1 Tbsp butter to the pot over medium heat. Once melted, add the onion, carrots and celery, season with basil, salt and pepper, and stir until tender.",
+    "Once the carrots are softened, add the remaining 3 Tbsp butter and the flour, stirring to coat evenly. Cook a few minutes to brown and remove the raw flour taste.",
+    "Add the potatoes and stir until incorporated. Pour in the chicken broth and bring to a light boil, stirring occasionally.",
+    "Once the potatoes are fork tender, add the milk, sour cream and Velveeta. Stir until the cheese is completely melted into the soup.",
+    "Turn off the heat and add the chopped bacon, saving some to garnish if desired. Taste and adjust seasoning. Top with parsley or serve with crackers and croutons."
   ],
-  "notes": "Recipe by Justin Holmes (Holmes Cooking) from the pinned first comment on a Facebook reel. The reel does not show where the cooked ground beef is added back; it is presumably returned to the pot with the bacon or broth.",
-  "tags": ["soup", "bacon", "cheeseburger", "dinner", "velveeta"],
-  "emailSent": true
+  "notes": "Recipe from Justin Holmes (Holmes Cooking) reel; full recipe was in the author's pinned first comment. Add the browned ground beef back to the soup with the potatoes (the comment sets it aside but does not say when to return it). Commenter tip: save bacon grease in a mason jar in the pantry.",
+  "tags": ["soup", "bacon", "cheeseburger", "comfort-food", "dinner"],
+  "emailSent": false
 }
