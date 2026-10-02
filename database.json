@@ -64,8 +64,9 @@
     {"id":"2026-09-27-creamy-bacon-chicken","type":"recipe","title":"Creamy Bacon Chicken","capturedAt":"2026-09-27T17:27:25Z","file":"entries/2026-09-27-creamy-bacon-chicken.json"},
     {"id":"2026-09-29-caramel-apple-dip","type":"recipe","title":"Whipped Cream Cheese and Caramel Apple Dip","capturedAt":"2026-09-29T11:25:00Z","file":"entries/2026-09-29-facebook-reel-unfetched.json"},
     {"id":"2026-09-30-bacon-cheeseburger-soup","type":"recipe","title":"Bacon Cheeseburger Soup","capturedAt":"2026-09-30T12:00:00Z","file":"entries/2026-09-30-bacon-cheeseburger-soup.json"},
-    {"id":"2026-10-01-restaurant-style-cheese-dip","type":"recipe","title":"Restaurant-Style Cheese Dip (Haley Dollarhide) — Partial, Video Only","capturedAt":"2026-10-01T20:00:00Z","file":"entries/2026-10-01-restaurant-style-cheese-dip.json"}
+    {"id":"2026-10-01-restaurant-style-cheese-dip","type":"recipe","title":"Restaurant-Style Cheese Dip (Haley Dollarhide) — Partial, Video Only","capturedAt":"2026-10-01T20:00:00Z","file":"entries/2026-10-01-restaurant-style-cheese-dip.json"},
+    {"id":"2026-10-02-homemade-crunchwrap-supreme","type":"recipe","title":"Homemade Crunchwrap Supreme (Updated)","capturedAt":"2026-10-02T12:00:00Z","file":"entries/2026-10-02-homemade-crunchwrap-supreme.json"}
   ],
-  "lastUpdated": "2026-10-01T20:00:00Z",
-  "totalEntries": 63
+  "lastUpdated": "2026-10-02T12:00:00Z",
+  "totalEntries": 64
 }
