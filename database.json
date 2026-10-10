@@ -66,8 +66,9 @@
     {"id":"2026-09-30-bacon-cheeseburger-soup","type":"recipe","title":"Bacon Cheeseburger Soup","capturedAt":"2026-09-30T12:00:00Z","file":"entries/2026-09-30-bacon-cheeseburger-soup.json"},
     {"id":"2026-10-01-restaurant-style-cheese-dip","type":"recipe","title":"Restaurant-Style Cheese Dip (Haley Dollarhide) — Partial, Video Only","capturedAt":"2026-10-01T20:00:00Z","file":"entries/2026-10-01-restaurant-style-cheese-dip.json"},
     {"id":"2026-10-02-homemade-crunchwrap-supreme","type":"recipe","title":"Homemade Crunchwrap Supreme (Updated)","capturedAt":"2026-10-02T12:00:00Z","file":"entries/2026-10-02-homemade-crunchwrap-supreme.json"},
-    {"id":"2026-10-07-3-ingredient-brown-sugar-cookies","type":"recipe","title":"3-Ingredient Brown Sugar Cookies","capturedAt":"2026-10-07T13:48:00Z","file":"entries/2026-10-07-3-ingredient-brown-sugar-cookies.json"}
+    {"id":"2026-10-07-3-ingredient-brown-sugar-cookies","type":"recipe","title":"3-Ingredient Brown Sugar Cookies","capturedAt":"2026-10-07T13:48:00Z","file":"entries/2026-10-07-3-ingredient-brown-sugar-cookies.json"},
+    {"id":"2026-10-10-no-bake-cheesecake-pecan-pie","type":"recipe","title":"No-Bake Cheesecake Pecan Pie","capturedAt":"2026-10-10T21:13:00Z","file":"entries/2026-10-10-no-bake-cheesecake-pecan-pie.json"}
   ],
-  "lastUpdated": "2026-10-07T13:48:00Z",
-  "totalEntries": 65
+  "lastUpdated": "2026-10-10T21:13:00Z",
+  "totalEntries": 66
 }
