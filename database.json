@@ -470,8 +470,15 @@
       "title": "Maple Brown Sugar Cookies with Maple Icing",
       "capturedAt": "2026-10-12T21:21:00Z",
       "file": "entries/2026-10-12-maple-brown-sugar-cookies.json"
+    },
+    {
+      "id": "2026-10-18-3-cheese-garlic-butter-beef-and-noodles",
+      "type": "recipe",
+      "title": "3-Cheese Garlic Butter Beef & Noodles",
+      "capturedAt": "2026-10-19T01:08:00Z",
+      "file": "entries/2026-10-18-3-cheese-garlic-butter-beef-and-noodles.json"
     }
   ],
-  "lastUpdated": "2026-10-10T21:13:00Z",
-  "totalEntries": 66
+  "lastUpdated": "2026-10-19T01:08:00Z",
+  "totalEntries": 68
 }
