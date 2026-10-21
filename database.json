@@ -477,8 +477,15 @@
       "title": "3-Cheese Garlic Butter Beef & Noodles",
       "capturedAt": "2026-10-19T01:08:00Z",
       "file": "entries/2026-10-18-3-cheese-garlic-butter-beef-and-noodles.json"
+    },
+    {
+      "id": "2026-10-21-cajun-potato-soup",
+      "type": "recipe",
+      "title": "Cajun Potato Soup with Bacon & Smoked Sausage",
+      "capturedAt": "2026-10-21T21:12:00Z",
+      "file": "entries/2026-10-21-cajun-potato-soup.json"
     }
   ],
-  "lastUpdated": "2026-10-19T01:08:00Z",
-  "totalEntries": 68
+  "lastUpdated": "2026-10-21T21:12:00Z",
+  "totalEntries": 69
 }
