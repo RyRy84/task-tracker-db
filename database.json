@@ -484,8 +484,15 @@
       "title": "Cajun Potato Soup with Bacon & Smoked Sausage",
       "capturedAt": "2026-10-21T21:12:00Z",
       "file": "entries/2026-10-21-cajun-potato-soup.json"
+    },
+    {
+      "id": "2026-10-23-loaded-baked-potato-soup",
+      "type": "recipe",
+      "title": "Loaded Baked Potato Soup",
+      "capturedAt": "2026-10-24T01:06:00Z",
+      "file": "entries/2026-10-23-loaded-baked-potato-soup.json"
     }
   ],
-  "lastUpdated": "2026-10-21T21:12:00Z",
-  "totalEntries": 69
+  "lastUpdated": "2026-10-24T01:06:00Z",
+  "totalEntries": 70
 }
