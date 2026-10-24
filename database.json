@@ -491,8 +491,15 @@
       "title": "Loaded Baked Potato Soup",
       "capturedAt": "2026-10-24T01:06:00Z",
       "file": "entries/2026-10-23-loaded-baked-potato-soup.json"
+    },
+    {
+      "id": "2026-10-23-baked-souper-rice",
+      "type": "recipe",
+      "title": "Baked Souper Rice",
+      "capturedAt": "2026-10-24T02:03:00Z",
+      "file": "entries/2026-10-23-baked-souper-rice.json"
     }
   ],
-  "lastUpdated": "2026-10-24T01:06:00Z",
-  "totalEntries": 70
+  "lastUpdated": "2026-10-24T02:03:00Z",
+  "totalEntries": 71
 }
