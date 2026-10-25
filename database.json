@@ -498,8 +498,15 @@
       "title": "Baked Souper Rice",
       "capturedAt": "2026-10-24T02:03:00Z",
       "file": "entries/2026-10-23-baked-souper-rice.json"
+    },
+    {
+      "id": "2026-10-25-slow-cooker-chicken-and-noodles",
+      "type": "recipe",
+      "title": "Slow Cooker Chicken and Noodles",
+      "capturedAt": "2026-10-25T21:10:00Z",
+      "file": "entries/2026-10-25-slow-cooker-chicken-and-noodles.json"
     }
   ],
-  "lastUpdated": "2026-10-24T02:03:00Z",
-  "totalEntries": 71
+  "lastUpdated": "2026-10-25T21:10:00Z",
+  "totalEntries": 72
 }
