@@ -505,8 +505,15 @@
       "title": "Slow Cooker Chicken and Noodles",
       "capturedAt": "2026-10-25T21:10:00Z",
       "file": "entries/2026-10-25-slow-cooker-chicken-and-noodles.json"
+    },
+    {
+      "id": "2026-10-25-famous-chocolate-chip-cookies-in-a-pan",
+      "type": "recipe",
+      "title": "Famous Chocolate Chip Cookies (In a Pan)",
+      "capturedAt": "2026-10-26T00:45:00Z",
+      "file": "entries/2026-10-25-famous-chocolate-chip-cookies-in-a-pan.json"
     }
   ],
-  "lastUpdated": "2026-10-25T21:10:00Z",
-  "totalEntries": 72
+  "lastUpdated": "2026-10-26T00:45:00Z",
+  "totalEntries": 73
 }
