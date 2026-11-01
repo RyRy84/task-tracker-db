@@ -540,8 +540,15 @@
       "title": "Brown Sugar Chex Mix",
       "capturedAt": "2026-11-01T01:20:00Z",
       "file": "entries/2026-10-31-brown-sugar-chex-mix.json"
+    },
+    {
+      "id": "2026-11-01-no-bake-cookie-butter-delight",
+      "type": "recipe",
+      "title": "No-Bake Cookie Butter Delight",
+      "capturedAt": "2026-11-01T22:10:00Z",
+      "file": "entries/2026-11-01-no-bake-cookie-butter-delight.json"
     }
   ],
-  "lastUpdated": "2026-11-01T01:20:00Z",
-  "totalEntries": 77
+  "lastUpdated": "2026-11-01T22:10:00Z",
+  "totalEntries": 78
 }
