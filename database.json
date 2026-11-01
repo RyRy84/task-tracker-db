@@ -533,8 +533,15 @@
       "title": "Easiest Cookie Icing",
       "capturedAt": "2026-10-29T21:10:00Z",
       "file": "entries/2026-10-29-easiest-cookie-icing.json"
+    },
+    {
+      "id": "2026-10-31-brown-sugar-chex-mix",
+      "type": "recipe",
+      "title": "Brown Sugar Chex Mix",
+      "capturedAt": "2026-11-01T01:20:00Z",
+      "file": "entries/2026-10-31-brown-sugar-chex-mix.json"
     }
   ],
-  "lastUpdated": "2026-10-29T21:10:00Z",
-  "totalEntries": 76
+  "lastUpdated": "2026-11-01T01:20:00Z",
+  "totalEntries": 77
 }
