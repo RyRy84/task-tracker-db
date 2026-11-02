@@ -547,8 +547,15 @@
       "title": "No-Bake Cookie Butter Delight",
       "capturedAt": "2026-11-01T22:10:00Z",
       "file": "entries/2026-11-01-no-bake-cookie-butter-delight.json"
+    },
+    {
+      "id": "2026-11-01-pegs-famous-christmas-potatoes",
+      "type": "recipe",
+      "title": "Peg's Famous Christmas Potatoes",
+      "capturedAt": "2026-11-02T00:50:00Z",
+      "file": "entries/2026-11-01-pegs-famous-christmas-potatoes.json"
     }
   ],
-  "lastUpdated": "2026-11-01T22:10:00Z",
-  "totalEntries": 78
+  "lastUpdated": "2026-11-02T00:50:00Z",
+  "totalEntries": 79
 }
