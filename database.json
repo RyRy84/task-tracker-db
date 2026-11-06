@@ -554,8 +554,15 @@
       "title": "Peg's Famous Christmas Potatoes",
       "capturedAt": "2026-11-02T00:50:00Z",
       "file": "entries/2026-11-01-pegs-famous-christmas-potatoes.json"
+    },
+    {
+      "id": "2026-11-05-homemade-candied-pecans",
+      "type": "recipe",
+      "title": "Homemade Candied Pecans",
+      "capturedAt": "2026-11-06T02:20:00Z",
+      "file": "entries/2026-11-05-homemade-candied-pecans.json"
     }
   ],
-  "lastUpdated": "2026-11-02T00:50:00Z",
-  "totalEntries": 79
+  "lastUpdated": "2026-11-06T02:20:00Z",
+  "totalEntries": 80
 }
