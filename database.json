@@ -561,8 +561,15 @@
       "title": "Homemade Candied Pecans",
       "capturedAt": "2026-11-06T02:20:00Z",
       "file": "entries/2026-11-05-homemade-candied-pecans.json"
+    },
+    {
+      "id": "2026-11-05-holiday-ranch-firecracker-snack-mix",
+      "type": "recipe",
+      "title": "Holiday Ranch Firecracker Snack Mix",
+      "capturedAt": "2026-11-06T02:20:00Z",
+      "file": "entries/2026-11-05-holiday-ranch-firecracker-snack-mix.json"
     }
   ],
   "lastUpdated": "2026-11-06T02:20:00Z",
-  "totalEntries": 80
+  "totalEntries": 81
 }
