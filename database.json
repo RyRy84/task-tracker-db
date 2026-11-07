@@ -215,7 +215,7 @@
     {
       "id": "2026-07-31-easy-yummy-meal",
       "type": "recipe",
-      "title": "Easy, Yummy Meal (Kristen Cooking Reel) \u2014 Partial, Video Only",
+      "title": "Easy, Yummy Meal (Kristen Cooking Reel) — Partial, Video Only",
       "capturedAt": "2026-07-31T15:20:27Z",
       "file": "entries/2026-07-31-easy-yummy-meal.json"
     },
@@ -250,7 +250,7 @@
     {
       "id": "2026-08-16-pumpkin-cookie-bars",
       "type": "recipe",
-      "title": "Easy Pumpkin Cookie Bars (Partial \u2014 Video Only)",
+      "title": "Easy Pumpkin Cookie Bars (Partial — Video Only)",
       "capturedAt": "2026-08-16T19:00:00Z",
       "file": "entries/2026-08-16-pumpkin-cookie-bars.json"
     },
@@ -264,7 +264,7 @@
     {
       "id": "2026-08-21-dump-and-bake-chicken-casserole",
       "type": "recipe",
-      "title": "Dump and Bake Cheesy Chicken Casserole (Partial \u2014 Video Only)",
+      "title": "Dump and Bake Cheesy Chicken Casserole (Partial — Video Only)",
       "capturedAt": "2026-08-21T23:41:22Z",
       "file": "entries/2026-08-21-dump-and-bake-chicken-casserole.json"
     },
@@ -285,7 +285,7 @@
     {
       "id": "2026-08-23-viral-cheese-dip",
       "type": "recipe",
-      "title": "Haley Dollarhide's Viral Cheese Dip (Partial \u2014 Video Only)",
+      "title": "Haley Dollarhide's Viral Cheese Dip (Partial — Video Only)",
       "capturedAt": "2026-08-23T02:06:00Z",
       "file": "entries/2026-08-23-viral-cheese-dip.json"
     },
@@ -299,14 +299,14 @@
     {
       "id": "2026-08-29-cheesy-chicken-rice-bake",
       "type": "recipe",
-      "title": "Cheesy Chicken and Rice Bake (Partial \u2014 Video Only)",
+      "title": "Cheesy Chicken and Rice Bake (Partial — Video Only)",
       "capturedAt": "2026-08-29T23:31:49Z",
       "file": "entries/2026-08-29-cheesy-chicken-rice-bake.json"
     },
     {
       "id": "2026-08-29-chocolate-coca-cola-cake",
       "type": "recipe",
-      "title": "Chocolate Coca-Cola Cake (Partial \u2014 Video Only)",
+      "title": "Chocolate Coca-Cola Cake (Partial — Video Only)",
       "capturedAt": "2026-08-29T23:18:51Z",
       "file": "entries/2026-08-29-chocolate-coca-cola-cake.json"
     },
@@ -320,14 +320,14 @@
     {
       "id": "2026-09-02-tess-walker-tater-tot-casserole",
       "type": "recipe",
-      "title": "Tess Walker's Tater Tot Casserole (Partial \u2014 Video Only)",
+      "title": "Tess Walker's Tater Tot Casserole (Partial — Video Only)",
       "capturedAt": "2026-09-03T00:47:35Z",
       "file": "entries/2026-09-02-tess-walker-tater-tot-casserole.json"
     },
     {
       "id": "2026-09-02-linda-skeens-cheesy-potatoes",
       "type": "recipe",
-      "title": "Linda Skeens' Cheesy Potatoes (Partial \u2014 Video Only)",
+      "title": "Linda Skeens' Cheesy Potatoes (Partial — Video Only)",
       "capturedAt": "2026-09-03T00:47:35Z",
       "file": "entries/2026-09-02-linda-skeens-cheesy-potatoes.json"
     },
@@ -439,7 +439,7 @@
     {
       "id": "2026-10-01-restaurant-style-cheese-dip",
       "type": "recipe",
-      "title": "Restaurant-Style Cheese Dip (Haley Dollarhide) \u2014 Partial, Video Only",
+      "title": "Restaurant-Style Cheese Dip (Haley Dollarhide) — Partial, Video Only",
       "capturedAt": "2026-10-01T20:00:00Z",
       "file": "entries/2026-10-01-restaurant-style-cheese-dip.json"
     },
@@ -589,8 +589,15 @@
       "title": "Cheesy Roast Beef Sliders",
       "capturedAt": "2026-11-07T02:25:00Z",
       "file": "entries/2026-11-06-cheesy-roast-beef-sliders.json"
+    },
+    {
+      "id": "2026-11-07-crispy-parmesan-crusted-chicken",
+      "type": "recipe",
+      "title": "Crispy Parmesan-Crusted Chicken",
+      "capturedAt": "2026-11-07T22:15:00Z",
+      "file": "entries/2026-11-07-crispy-parmesan-crusted-chicken.json"
     }
   ],
-  "lastUpdated": "2026-11-07T02:25:00Z",
-  "totalEntries": 84
+  "lastUpdated": "2026-11-07T22:15:00Z",
+  "totalEntries": 85
 }
