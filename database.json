@@ -596,8 +596,15 @@
       "title": "Crispy Parmesan-Crusted Chicken",
       "capturedAt": "2026-11-07T22:15:00Z",
       "file": "entries/2026-11-07-crispy-parmesan-crusted-chicken.json"
+    },
+    {
+      "id": "2026-11-13-french-onion-scalloped-potatoes",
+      "type": "recipe",
+      "title": "French Onion Scalloped Potatoes",
+      "capturedAt": "2026-11-13T22:15:00Z",
+      "file": "entries/2026-11-13-french-onion-scalloped-potatoes.json"
     }
   ],
-  "lastUpdated": "2026-11-07T22:15:00Z",
-  "totalEntries": 85
+  "lastUpdated": "2026-11-13T22:15:00Z",
+  "totalEntries": 86
 }
