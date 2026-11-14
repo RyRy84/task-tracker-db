@@ -603,8 +603,15 @@
       "title": "French Onion Scalloped Potatoes",
       "capturedAt": "2026-11-13T22:15:00Z",
       "file": "entries/2026-11-13-french-onion-scalloped-potatoes.json"
+    },
+    {
+      "id": "2026-11-14-4-ingredient-sugar-cookie-christmas-bars",
+      "type": "recipe",
+      "title": "4-Ingredient Sugar Cookie Christmas Bars",
+      "capturedAt": "2026-11-14T22:10:00Z",
+      "file": "entries/2026-11-14-4-ingredient-sugar-cookie-christmas-bars.json"
     }
   ],
-  "lastUpdated": "2026-11-13T22:15:00Z",
-  "totalEntries": 86
+  "lastUpdated": "2026-11-14T22:10:00Z",
+  "totalEntries": 87
 }
