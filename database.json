@@ -617,8 +617,15 @@
       "title": "Christmas Cake Dip Cups",
       "capturedAt": "2026-11-21T02:15:00Z",
       "file": "entries/2026-11-20-christmas-cake-dip-cups.json"
+    },
+    {
+      "id": "2026-11-21-cheesy-chicken-hash-brown-bake",
+      "type": "recipe",
+      "title": "Cheesy Chicken Hash Brown Bake",
+      "capturedAt": "2026-11-21T22:13:11Z",
+      "file": "entries/2026-11-21-cheesy-chicken-hash-brown-bake.json"
     }
   ],
-  "lastUpdated": "2026-11-21T02:15:00Z",
-  "totalEntries": 88
+  "lastUpdated": "2026-11-21T22:13:11Z",
+  "totalEntries": 89
 }
