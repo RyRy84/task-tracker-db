@@ -610,8 +610,15 @@
       "title": "4-Ingredient Sugar Cookie Christmas Bars",
       "capturedAt": "2026-11-14T22:10:00Z",
       "file": "entries/2026-11-14-4-ingredient-sugar-cookie-christmas-bars.json"
+    },
+    {
+      "id": "2026-11-20-christmas-cake-dip-cups",
+      "type": "recipe",
+      "title": "Christmas Cake Dip Cups",
+      "capturedAt": "2026-11-21T02:15:00Z",
+      "file": "entries/2026-11-20-christmas-cake-dip-cups.json"
     }
   ],
-  "lastUpdated": "2026-11-14T22:10:00Z",
-  "totalEntries": 87
+  "lastUpdated": "2026-11-21T02:15:00Z",
+  "totalEntries": 88
 }
