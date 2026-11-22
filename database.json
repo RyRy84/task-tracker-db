@@ -624,8 +624,15 @@
       "title": "Cheesy Chicken Hash Brown Bake",
       "capturedAt": "2026-11-21T22:13:11Z",
       "file": "entries/2026-11-21-cheesy-chicken-hash-brown-bake.json"
+    },
+    {
+      "id": "2026-11-21-southern-3-ingredient-spicy-ranch-squares",
+      "type": "recipe",
+      "title": "Southern 3-Ingredient Spicy Ranch Squares",
+      "capturedAt": "2026-11-22T02:09:39Z",
+      "file": "entries/2026-11-21-southern-3-ingredient-spicy-ranch-squares.json"
     }
   ],
-  "lastUpdated": "2026-11-21T22:13:11Z",
-  "totalEntries": 89
+  "lastUpdated": "2026-11-22T02:09:39Z",
+  "totalEntries": 90
 }
