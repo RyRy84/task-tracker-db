@@ -631,8 +631,15 @@
       "title": "Southern 3-Ingredient Spicy Ranch Squares",
       "capturedAt": "2026-11-22T02:09:39Z",
       "file": "entries/2026-11-21-southern-3-ingredient-spicy-ranch-squares.json"
+    },
+    {
+      "id": "2026-11-27-christmas-reindeer-chow",
+      "type": "recipe",
+      "title": "Christmas Reindeer Chow",
+      "capturedAt": "2026-11-27T22:09:15Z",
+      "file": "entries/2026-11-27-christmas-reindeer-chow.json"
     }
   ],
-  "lastUpdated": "2026-11-22T02:09:39Z",
-  "totalEntries": 90
+  "lastUpdated": "2026-11-27T22:09:15Z",
+  "totalEntries": 91
 }
